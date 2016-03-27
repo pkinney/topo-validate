@@ -1,5 +1,5 @@
-Topology Validation Suite
-=========================
+Topology Validation Test Cases
+==============================
 
 A JSON port of the validation suite originally provided by JTS, the
 [Java TopologySuite](http://www.vividsolutions.com/jts/JTSHome.htm). This
