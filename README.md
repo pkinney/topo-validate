@@ -2,7 +2,7 @@ Topology Validation Test Cases
 ==============================
 
 A JSON port of the validation suite originally provided by JTS, the
-[Java TopologySuite](http://www.vividsolutions.com/jts/JTSHome.htm). This
+[Java Topology Suite](http://www.vividsolutions.com/jts/JTSHome.htm). This
 repository contains all 575 test cases in an easy-to-use JSON format.
 
 ## Format
@@ -21,9 +21,9 @@ of test cases with the following structure.
                 denoting a group of test cases related to the functions between
                 a Point and a Line)
 * **`title`** - descriptive title for the case
-* **`wktA`** - geometry A, including a WKT representation (`wkt`) and a GeoJSON
+* **`a`** - geometry A, including a WKT representation (`wkt`) and a GeoJSON
                representation (`geometry`)
-* **`wktB`** (if present) - same as wktA (not present in test cases of type `unary`
+* **`b`** (if present) - same as wktA (not present in test cases of type `unary`
 * **`relationship`** - When two geometries are given, this will contain the named
                        spatial predicates and their results for the two geometries
                        and the Dimensionally Extended nine-Intersection Model
@@ -43,14 +43,14 @@ Sample test case containing two polygons.  See the original JTS visualization
   "category": "function",
   "group": "TestFunctionAA",
   "title": "AA - simple polygons #2",
-  "wktA": {
+  "a": {
     "wkt": "POLYGON ((20 340, 330 380, 50 40, 20 340))",
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[20, 340], [330, 380], [50,40], [20, 340]]]
     }
   },
-  "wktB": {
+  "b": {
     "wkt": "POLYGON ((210 320, 140 270, 0 270, 140 220, 210 320))",
     "geometry": {
       "type": "Polygon",
