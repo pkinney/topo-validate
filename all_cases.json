@@ -7445,7 +7445,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -7516,7 +7516,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -7587,7 +7587,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -7658,7 +7658,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -7729,7 +7729,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -7800,7 +7800,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -7871,7 +7871,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -7942,7 +7942,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -8013,7 +8013,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -8084,7 +8084,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (90 50, 150 110, 190 50, 90 50), (190 50, 230 110, 290 50, 190 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(90 50, 150 110, 190 50, 90 50),(190 50, 230 110, 290 50, 190 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -8173,7 +8173,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (180 140, 180 40, 80 40, 180 140), (180 90, 210 140, 310 40, 230 40, 180 90))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(180 140, 180 40, 80 40, 180 140),(180 90, 210 140, 310 40, 230 40, 180 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -9222,7 +9222,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -9303,7 +9303,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -9384,7 +9384,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (280 50, 100 50, 190 140, 280 50))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(280 50, 100 50, 190 140, 280 50))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -9455,7 +9455,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((20 100, 20 20, 100 20, 100 100, 20 100)), ((100 180, 100 100, 180 100, 180 180, 100 180)))",
+        "wkt": "MULTIPOLYGON (((20 100, 20 20, 100 20, 100 100, 20 100)),((100 180, 100 100, 180 100, 180 180, 100 180)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -9538,7 +9538,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((20 100, 20 20, 100 20, 100 100, 20 100)), ((100 180, 100 100, 180 100, 180 180, 100 180)))",
+        "wkt": "MULTIPOLYGON (((20 100, 20 20, 100 20, 100 100, 20 100)),((100 180, 100 100, 180 100, 180 180, 100 180)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -9621,7 +9621,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((20 100, 20 20, 100 20, 100 100, 20 100)), ((100 180, 100 100, 180 100, 180 180, 100 180)))",
+        "wkt": "MULTIPOLYGON (((20 100, 20 20, 100 20, 100 100, 20 100)),((100 180, 100 100, 180 100, 180 180, 100 180)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -9704,7 +9704,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 20 200, 200 200, 110 110), (110 110, 80 180, 140 180, 110 110)), ((110 110, 20 20, 200 20, 110 110), (110 110, 80 40, 140 40, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 20 200, 200 200, 110 110),(110 110, 80 180, 140 180, 110 110)),((110 110, 20 20, 200 20, 110 110),(110 110, 80 40, 140 40, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -16838,7 +16838,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((20 20, 140 140), (20 140, 140 20))",
+        "wkt": "MULTILINESTRING ((20 20, 140 140),(20 140, 140 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18547,7 +18547,7 @@
       "title": "mL/mL-1: MultiLineString [dim(1){A.mL.Int.SP-EP = B.mL.Int.SP-EP}]",
       "id": "04-131",
       "a": {
-        "wkt": "MULTILINESTRING ((70 20, 20 90, 70 170), (70 170, 120 90, 70 20))",
+        "wkt": "MULTILINESTRING ((70 20, 20 90, 70 170),(70 170, 120 90, 70 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18583,7 +18583,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((70 20, 20 90, 70 170), (70 170, 120 90, 70 20))",
+        "wkt": "MULTILINESTRING ((70 20, 20 90, 70 170),(70 170, 120 90, 70 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18636,7 +18636,7 @@
       "title": "mL/mL-1-1: non-simple MultiLineString [dim(1){A.mL.Int.SP-EP = B.mL.Int.SP-EP}]",
       "id": "04-132",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18672,7 +18672,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18725,7 +18725,7 @@
       "title": "mL/mL-1-2: equal non-simple MultiLineString with different sequence of lines and points [dim(1){A.mL.Int.SP-EP = B.mL.Int.EP-SP}]",
       "id": "04-133",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18761,7 +18761,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 140, 90 60, 90 20), (170 20, 130 20, 20 20))",
+        "wkt": "MULTILINESTRING ((90 140, 90 60, 90 20),(170 20, 130 20, 20 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18814,7 +18814,7 @@
       "title": "mL/mL-3-1: non-simple MultiLineStrings touching at boundaries [dim(0){A.mL.Bdy.SPx = B.mL.Bdy.SPb}]",
       "id": "04-134",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18850,7 +18850,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140), (170 60, 90 20, 20 60), (130 100, 130 60, 90 20, 50 90))",
+        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140),(170 60, 90 20, 20 60),(130 100, 130 60, 90 20, 50 90))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18921,7 +18921,7 @@
       "title": "mL/mL-3-2: non-simple MultiLineStrings touching at boundaries [dim(0){A.mL.Bdy.SPx = B.mL.Bdy.SPo}]",
       "id": "04-135",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -18957,7 +18957,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140), (130 140, 130 60, 90 20, 20 90, 90 20, 130 60, 170 60))",
+        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140),(130 140, 130 60, 90 20, 20 90, 90 20, 130 60, 170 60))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19026,7 +19026,7 @@
       "title": "mL/mL-3-3: non-simple MultiLineStrings touching at boundaries [dim(0){A.mL.Bdy.SPx = B.mL.Bdy.SPx}]",
       "id": "04-136",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19062,7 +19062,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140), (170 60, 90 20, 20 60))",
+        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140),(170 60, 90 20, 20 60))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19115,7 +19115,7 @@
       "title": "mL/mL-3-4: non-simple MultiLineStrings touching at boundaries [dim(0){A.mL.Bdy.SPx = B.mL.Bdy.SPx}]",
       "id": "04-137",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19151,7 +19151,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140), (170 60, 90 20, 20 60), (130 100, 90 20))",
+        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140),(170 60, 90 20, 20 60),(130 100, 90 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19214,7 +19214,7 @@
       "title": "mL/mL-3-5: non-simple MultiLineStrings touching at boundaries [dim(0){A.mL.Bdy.SPx = B.mL.Bdy.SPx}]",
       "id": "04-138",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19250,7 +19250,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140), (170 60, 90 20, 20 60), (120 100, 170 100, 90 20))",
+        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140),(170 60, 90 20, 20 60),(120 100, 170 100, 90 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19317,7 +19317,7 @@
       "title": "mL/mL-3-6: non-simple MultiLineStrings touching at boundaries [dim(0){A.mL.Bdy.SPx = B.mL.Int.SPb}]",
       "id": "04-139",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19353,7 +19353,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140), (170 60, 90 20, 20 60), (120 100, 170 100, 90 20))",
+        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140),(170 60, 90 20, 20 60),(120 100, 170 100, 90 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19420,7 +19420,7 @@
       "title": "mL/mL-3-7: non-simple MultiLineStrings touching at boundaries [dim(0){A.mL.Bdy.SPx = B.mL.Int.SPo}]",
       "id": "04-140",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19456,7 +19456,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140), (130 140, 130 60, 90 20, 20 90, 90 20))",
+        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140),(130 140, 130 60, 90 20, 20 90, 90 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19517,7 +19517,7 @@
       "title": "mL/mL-3-8: non-simple MultiLineStrings touching at boundaries [dim(0){A.mL.Bdy.SPx = B.mL.Int.SPx}]",
       "id": "04-141",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20), (90 20, 90 80, 90 140))",
+        "wkt": "MULTILINESTRING ((20 20, 90 20, 170 20),(90 20, 90 80, 90 140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19553,7 +19553,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140), (170 60, 90 20, 20 60, 20 140, 90 20))",
+        "wkt": "MULTILINESTRING ((90 20, 170 100, 170 140),(170 60, 90 20, 20 60, 20 140, 90 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19614,7 +19614,7 @@
       "title": "mL/mL-4-1: non-simple MultiLineStrings crossing [dim(0){A.mL.Int.Vx = B.mL.Int.Vb}]",
       "id": "04-142",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 90, 20 160), (90 160, 90 20))",
+        "wkt": "MULTILINESTRING ((20 20, 90 90, 20 160),(90 160, 90 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19646,7 +19646,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((160 160, 90 90, 160 20), (160 120, 120 120, 90 90, 160 60))",
+        "wkt": "MULTILINESTRING ((160 160, 90 90, 160 20),(160 120, 120 120, 90 90, 160 60))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19703,7 +19703,7 @@
       "title": "mL/mL-4-2: non-simple MultiLineStrings crossing [dim(0){A.mL.Int.Vx = B.mL.Int.Vo}]",
       "id": "04-143",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 90, 20 160), (90 160, 90 20))",
+        "wkt": "MULTILINESTRING ((20 20, 90 90, 20 160),(90 160, 90 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19735,7 +19735,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((160 160, 90 90, 160 20), (160 120, 120 120, 90 90, 120 60, 160 60))",
+        "wkt": "MULTILINESTRING ((160 160, 90 90, 160 20),(160 120, 120 120, 90 90, 120 60, 160 60))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19796,7 +19796,7 @@
       "title": "mL/mL-4-3: non-simple MultiLineStrings crossing [dim(0){A.mL.Int.Vx = B.mL.Int.Vx}]",
       "id": "04-144",
       "a": {
-        "wkt": "MULTILINESTRING ((20 20, 90 90, 20 160), (90 160, 90 20))",
+        "wkt": "MULTILINESTRING ((20 20, 90 90, 20 160),(90 160, 90 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -19828,7 +19828,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((160 160, 90 90, 160 20), (160 120, 90 90, 160 60))",
+        "wkt": "MULTILINESTRING ((160 160, 90 90, 160 20),(160 120, 90 90, 160 60))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -21158,7 +21158,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21247,7 +21247,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21336,7 +21336,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21421,7 +21421,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21506,7 +21506,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (190 190, 280 50, 100 50, 190 190))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(190 190, 280 50, 100 50, 190 190))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21583,7 +21583,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (110 110, 250 100, 140 30, 110 110))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(110 110, 250 100, 140 30, 110 110))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21660,7 +21660,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 20 20, 360 20, 190 190), (250 100, 110 110, 140 30, 250 100))",
+        "wkt": "POLYGON ((190 190, 20 20, 360 20, 190 190),(250 100, 110 110, 140 30, 250 100))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21737,7 +21737,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 20 20, 360 20, 190 190), (250 100, 110 110, 140 30, 250 100))",
+        "wkt": "POLYGON ((190 190, 20 20, 360 20, 190 190),(250 100, 110 110, 140 30, 250 100))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21818,7 +21818,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (190 190, 280 50, 100 50, 190 190))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(190 190, 280 50, 100 50, 190 190))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21899,7 +21899,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190), (110 110, 250 100, 140 30, 110 110))",
+        "wkt": "POLYGON ((190 190, 360 20, 20 20, 190 190),(110 110, 250 100, 140 30, 110 110))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -21980,7 +21980,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 20 20, 360 20, 190 190), (250 100, 110 110, 140 30, 250 100))",
+        "wkt": "POLYGON ((190 190, 20 20, 360 20, 190 190),(250 100, 110 110, 140 30, 250 100))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22061,7 +22061,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((190 190, 110 110, 20 20, 360 20, 190 190), (250 100, 110 110, 140 30, 250 100))",
+        "wkt": "POLYGON ((190 190, 110 110, 20 20, 360 20, 190 190),(250 100, 110 110, 140 30, 250 100))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22146,7 +22146,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((20 200, 240 200, 240 20, 20 20, 20 200), (130 110, 60 180, 60 40, 130 110), (130 110, 200 40, 200 180, 130 110))",
+        "wkt": "POLYGON ((20 200, 240 200, 240 20, 20 20, 20 200),(130 110, 60 180, 60 40, 130 110),(130 110, 200 40, 200 180, 130 110))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22245,7 +22245,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((20 200, 240 200, 240 20, 20 20, 20 200), (130 110, 60 180, 60 40, 130 110), (130 110, 200 40, 200 180, 130 110))",
+        "wkt": "POLYGON ((20 200, 240 200, 240 20, 20 20, 20 200),(130 110, 60 180, 60 40, 130 110),(130 110, 200 40, 200 180, 130 110))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22344,7 +22344,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200), (60 180, 130 110, 60 40, 60 180), (130 110, 200 40, 200 180, 130 110))",
+        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200),(60 180, 130 110, 60 40, 60 180),(130 110, 200 40, 200 180, 130 110))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22443,7 +22443,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200), (130 110, 60 40, 60 180, 130 110), (130 180, 130 40, 200 110, 130 180))",
+        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200),(130 110, 60 40, 60 180, 130 110),(130 180, 130 40, 200 110, 130 180))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22546,7 +22546,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200), (130 110, 60 40, 60 180, 130 110), (130 180, 130 40, 200 110, 130 180))",
+        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200),(130 110, 60 40, 60 180, 130 110),(130 180, 130 40, 200 110, 130 180))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22649,7 +22649,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((20 200, 240 200, 240 20, 20 20, 20 200), (130 110, 60 180, 60 40, 130 110), (130 110, 200 40, 200 180, 130 110))",
+        "wkt": "POLYGON ((20 200, 240 200, 240 20, 20 20, 20 200),(130 110, 60 180, 60 40, 130 110),(130 110, 200 40, 200 180, 130 110))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22752,7 +22752,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200), (60 180, 130 110, 60 40, 60 180), (130 110, 200 40, 200 180, 130 110))",
+        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200),(60 180, 130 110, 60 40, 60 180),(130 110, 200 40, 200 180, 130 110))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22855,7 +22855,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200), (130 110, 60 40, 60 180, 130 110), (130 180, 130 40, 200 110, 130 180))",
+        "wkt": "POLYGON ((20 200, 20 20, 240 20, 240 200, 20 200),(130 110, 60 40, 60 180, 130 110),(130 180, 130 40, 200 110, 130 180))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -22954,7 +22954,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)), ((300 270, 420 270, 340 190, 220 190, 300 270)))",
+        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)),((300 270, 420 270, 340 190, 220 190, 300 270)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -23051,7 +23051,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)), ((300 270, 420 270, 340 190, 220 190, 300 270)))",
+        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)),((300 270, 420 270, 340 190, 220 190, 300 270)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -23140,7 +23140,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((0 0, 0 100, 140 100, 140 0, 0 0)), ((20 170, 70 100, 130 170, 20 170)))",
+        "wkt": "MULTIPOLYGON (((0 0, 0 100, 140 100, 140 0, 0 0)),((20 170, 70 100, 130 170, 20 170)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -23367,7 +23367,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 50 30, 170 30, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 50 30, 170 30, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -23519,7 +23519,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 50 30, 170 30, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 50 30, 170 30, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -23604,7 +23604,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 50 30, 170 30, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 50 30, 170 30, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -23689,7 +23689,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 50 30, 170 30, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 50 30, 170 30, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -23841,7 +23841,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 50 30, 170 30, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 50 30, 170 30, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -23993,7 +23993,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 60 40, 160 40, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 60 40, 160 40, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -24078,7 +24078,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 60 40, 160 40, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 60 40, 160 40, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -24163,7 +24163,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 60 40, 160 40, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 60 40, 160 40, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -24248,7 +24248,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110), (110 90, 60 40, 160 40, 110 90))",
+        "wkt": "POLYGON ((110 110, 200 20, 20 20, 110 110),(110 90, 60 40, 160 40, 110 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -24901,7 +24901,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -24970,7 +24970,7 @@
       "title": "mL/A-3-1: MultiLineString touching a polygon's closing point [dim(0){A.mL.Bdy.SPb = B.A.Bdy.CP}]",
       "id": "05-066",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110), (200 200, 110 110, 20 210, 110 110))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110),(200 200, 110 110, 20 210, 110 110))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25049,7 +25049,7 @@
       "title": "mL/A-3-2: MultiLineString touching a polygon's closing point [dim(0){A.mL.Bdy.SPo = B.A.Bdy.CP}]",
       "id": "05-067",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110), (60 180, 60 110, 160 110, 110 110))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110),(60 180, 60 110, 160 110, 110 110))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25128,7 +25128,7 @@
       "title": "mL/A-3-3: MultiLineString touching a polygon's closing point [dim(0){A.mL.Bdy.SPx = B.A.Bdy.CP}]",
       "id": "05-068",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110), (200 200, 110 110, 20 200, 110 200, 110 110))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110),(200 200, 110 110, 20 200, 110 200, 110 110))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25211,7 +25211,7 @@
       "title": "mL/A-4-1: MultiLineString crossing a polygon [dim(1){A.mL.Int.SP-NVb = B.A.Int}, dim(0){A.mL.Int.NVb = B.A.Bdy.CP}]",
       "id": "05-069",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110), (110 50, 110 170, 110 70, 110 150, 200 150))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110),(110 50, 110 170, 110 70, 110 150, 200 150))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25294,7 +25294,7 @@
       "title": "mL/A-4-2: MultiLineString crossing a polygon [dim(1){A.mL.Int.SP-NVo = B.A.Int}, dim(0){A.mL.Int.NVo = B.A.Bdy.CP}]",
       "id": "05-070",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110), (50 110, 170 110, 110 170, 110 50, 110 170, 110 50))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110),(50 110, 170 110, 110 170, 110 50, 110 170, 110 50))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25381,7 +25381,7 @@
       "title": "mL/A-4-3: MultiLineString crossing a polygon [dim(1){A.mL.Int.SP-NVx = B.A.Int}, dim(0){A.mL.Int.NVx = B.A.Bdy.CP}]",
       "id": "05-071",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110), (110 60, 110 160, 200 160))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110),(110 60, 110 160, 200 160))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25456,7 +25456,7 @@
       "title": "mL/A-4-4: MultiLineString crossing a polygon [dim(1){A.mL.Int.Vb-Vb = B.A.Int}, dim(0){A.mL.Int.Vb = B.A.oBdy.CP}, dim(0){A.mL.Int.Vb = B.A.iBdy.CP}]",
       "id": "05-072",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110), (110 60, 110 160, 200 160))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110),(110 60, 110 160, 200 160))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25531,7 +25531,7 @@
       "title": "mL/A-5-1: MultiLineString within a polygon [dim(1){A.mL.Int.SP-EP = B.A.Int}]",
       "id": "05-073",
       "a": {
-        "wkt": "MULTILINESTRING ((110 100, 40 30, 180 30), (170 30, 110 90, 50 30))",
+        "wkt": "MULTILINESTRING ((110 100, 40 30, 180 30),(170 30, 110 90, 50 30))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25610,7 +25610,7 @@
       "title": "mL/A-5-2: MultiLineString within a polygon [dim(1){A.mL.Int.SP-EP = B.A.Int}]",
       "id": "05-074",
       "a": {
-        "wkt": "MULTILINESTRING ((110 110, 60 40, 70 20, 150 20, 170 40), (180 30, 40 30, 110 80))",
+        "wkt": "MULTILINESTRING ((110 110, 60 40, 70 20, 150 20, 170 40),(180 30, 40 30, 110 80))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25697,7 +25697,7 @@
       "title": "mL/mA-3-1: MultiLineString within a MultiPolygon [dim(0){A.mL.Bdy.SPb = B.mA.Bdy.TP}]",
       "id": "05-075",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110, 200 160), (110 110, 200 110, 200 70, 20 150))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110, 200 160),(110 110, 200 110, 200 70, 20 150))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25737,7 +25737,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 20 20, 200 20, 110 110)), ((110 110, 20 200, 200 200, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 20 20, 200 20, 110 110)),((110 110, 20 200, 200 200, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -25802,7 +25802,7 @@
       "title": "mL/mA-3-2: MultiLineString within a MultiPolygon [dim(0){A.mL.Bdy.SPo = B.mA.Bdy.TP}]",
       "id": "05-076",
       "a": {
-        "wkt": "MULTILINESTRING ((20 160, 70 110, 150 110, 200 160), (110 110, 20 110, 50 80, 70 110, 200 110))",
+        "wkt": "MULTILINESTRING ((20 160, 70 110, 150 110, 200 160),(110 110, 20 110, 50 80, 70 110, 200 110))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25850,7 +25850,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 20 20, 200 20, 110 110)), ((110 110, 20 200, 200 200, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 20 20, 200 20, 110 110)),((110 110, 20 200, 200 200, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -25915,7 +25915,7 @@
       "title": "mL/mA-3-3: MultiLineString within a MultiPolygon [dim(0){A.mL.Bdy.SPx = B.mA.Bdy.TP}]",
       "id": "05-077",
       "a": {
-        "wkt": "MULTILINESTRING ((20 110, 200 110), (110 110, 20 170, 20 130, 200 90))",
+        "wkt": "MULTILINESTRING ((20 110, 200 110),(110 110, 20 170, 20 130, 200 90))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -25951,7 +25951,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 20 20, 200 20, 110 110)), ((110 110, 20 200, 200 200, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 20 20, 200 20, 110 110)),((110 110, 20 200, 200 200, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -26044,7 +26044,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((0 0, 0 50), (0 50, 50 50), (50 50, 50 0), (50 0, 0 0))",
+        "wkt": "MULTILINESTRING ((0 0, 0 50),(0 50, 50 50),(50 50, 50 0),(50 0, 0 0))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -26125,7 +26125,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((20 320, 180 320, 180 180, 20 180, 20 320)), ((20 180, 20 80, 180 80, 180 180, 20 180)))",
+        "wkt": "MULTIPOLYGON (((20 320, 180 320, 180 180, 20 180, 20 320)),((20 180, 20 80, 180 80, 180 180, 20 180)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -26214,7 +26214,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((20 320, 180 320, 180 180, 20 180, 20 320)), ((60 180, 60 80, 180 80, 180 180, 60 180)))",
+        "wkt": "MULTIPOLYGON (((20 320, 180 320, 180 180, 20 180, 20 320)),((60 180, 60 80, 180 80, 180 180, 60 180)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -26315,7 +26315,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((0 0, 60 0), (60 0, 120 0), (60 0, 60 60))",
+        "wkt": "MULTILINESTRING ((0 0, 60 0),(60 0, 120 0),(60 0, 60 60))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -34422,7 +34422,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((160 200, 310 20, 20 20, 160 200), (160 200, 260 40, 70 40, 160 200))",
+        "wkt": "POLYGON ((160 200, 310 20, 20 20, 160 200),(160 200, 260 40, 70 40, 160 200))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -34513,7 +34513,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -34612,7 +34612,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -34711,7 +34711,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -34810,7 +34810,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -34909,7 +34909,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35008,7 +35008,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35107,7 +35107,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35206,7 +35206,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35305,7 +35305,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35404,7 +35404,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 330 120, 260 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 330 120, 260 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35503,7 +35503,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 250 120, 180 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 250 120, 180 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35642,7 +35642,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 250 120, 180 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 250 120, 180 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35741,7 +35741,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 250 120, 180 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 250 120, 180 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35840,7 +35840,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 250 120, 180 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 250 120, 180 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -35939,7 +35939,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150), (170 120, 250 120, 180 50, 100 50, 170 120))",
+        "wkt": "POLYGON ((150 150, 410 150, 280 20, 20 20, 150 150),(170 120, 250 120, 180 50, 100 50, 170 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -36008,7 +36008,7 @@
       "title": "Ah/Ah-1-1: same polygons (with a hole) [dim(2){A.A.Int = B.A.Int}, dim(1){A.A.oBdy.SP-EP = B.A.oBdy.SP-EP}, dim(1){A.A.iBdy.SP-EP = B.A.iBdy.SP-EP}]",
       "id": "07-095",
       "a": {
-        "wkt": "POLYGON ((230 210, 230 20, 20 20, 20 210, 230 210), (120 180, 50 50, 200 50, 120 180))",
+        "wkt": "POLYGON ((230 210, 230 20, 20 20, 20 210, 230 210),(120 180, 50 50, 200 50, 120 180))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -36056,7 +36056,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((230 210, 230 20, 20 20, 20 210, 230 210), (120 180, 50 50, 200 50, 120 180))",
+        "wkt": "POLYGON ((230 210, 230 20, 20 20, 20 210, 230 210),(120 180, 50 50, 200 50, 120 180))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -36121,7 +36121,7 @@
       "title": "A2h/A2h-1-1: same polygons (with two holes) [dim(2){A.A.Int = B.A.Int}, dim(1){A.A.oBdy.SP-EP = B.A.oBdy.SP-EP}, dim(1){A.A.iBdy.SP-EP = B.A.iBdy.SP-EP}]",
       "id": "07-096",
       "a": {
-        "wkt": "POLYGON ((230 210, 230 20, 20 20, 20 210, 230 210), (140 40, 40 40, 40 170, 140 40), (110 190, 210 190, 210 50, 110 190))",
+        "wkt": "POLYGON ((230 210, 230 20, 20 20, 20 210, 230 210),(140 40, 40 40, 40 170, 140 40),(110 190, 210 190, 210 50, 110 190))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -36187,7 +36187,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((230 210, 230 20, 20 20, 20 210, 230 210), (140 40, 40 40, 40 170, 140 40), (110 190, 210 190, 210 50, 110 190))",
+        "wkt": "POLYGON ((230 210, 230 20, 20 20, 20 210, 230 210),(140 40, 40 40, 40 170, 140 40),(110 190, 210 190, 210 50, 110 190))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -36300,7 +36300,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)), ((300 270, 420 270, 340 190, 220 190, 300 270)))",
+        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)),((300 270, 420 270, 340 190, 220 190, 300 270)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -36403,7 +36403,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)), ((300 270, 420 270, 340 190, 220 190, 300 270)))",
+        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)),((300 270, 420 270, 340 190, 220 190, 300 270)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -36506,7 +36506,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)), ((300 270, 420 270, 340 190, 220 190, 300 270)))",
+        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)),((300 270, 420 270, 340 190, 220 190, 300 270)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -36609,7 +36609,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)), ((300 270, 420 270, 340 190, 220 190, 300 270)))",
+        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)),((300 270, 420 270, 340 190, 220 190, 300 270)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -36712,7 +36712,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)), ((300 270, 420 270, 340 190, 220 190, 300 270)))",
+        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)),((300 270, 420 270, 340 190, 220 190, 300 270)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -36815,7 +36815,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)), ((300 270, 420 270, 340 190, 220 190, 300 270)))",
+        "wkt": "MULTIPOLYGON (((140 110, 260 110, 170 20, 50 20, 140 110)),((300 270, 420 270, 340 190, 220 190, 300 270)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -36918,7 +36918,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((100 20, 180 20, 180 100, 100 100, 100 20)), ((20 100, 100 100, 100 180, 20 180, 20 100)), ((100 180, 180 180, 180 260, 100 260, 100 180)), ((180 100, 260 100, 260 180, 180 180, 180 100)))",
+        "wkt": "MULTIPOLYGON (((100 20, 180 20, 180 100, 100 100, 100 20)),((20 100, 100 100, 100 180, 20 180, 20 100)),((100 180, 180 180, 180 260, 100 260, 100 180)),((180 100, 260 100, 260 180, 180 180, 180 100)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37039,7 +37039,7 @@
       "title": "mA/mA-3-1: MultiPolygon touching MultiPolygon [dim(0){A.mA.Bdy.TP = B.mA.Bdy.TP}]",
       "id": "07-104",
       "a": {
-        "wkt": "MULTIPOLYGON (((110 110, 70 200, 150 200, 110 110)), ((110 110, 150 20, 70 20, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 70 200, 150 200, 110 110)),((110 110, 150 20, 70 20, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37087,7 +37087,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110)), ((110 110, 60 60, 10 110, 60 160, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110)),((110 110, 60 60, 10 110, 60 160, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37160,7 +37160,7 @@
       "title": "mAh/mAh-3-1: MultiPolygon touching MultiPolygon [dim(0){A.mA.Bdy.TP = B.mA.Bdy.TP}]",
       "id": "07-105",
       "a": {
-        "wkt": "MULTIPOLYGON (((110 110, 70 200, 150 200, 110 110), (110 110, 100 180, 120 180, 110 110)), ((110 110, 150 20, 70 20, 110 110), (110 110, 120 40, 100 40, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 70 200, 150 200, 110 110),(110 110, 100 180, 120 180, 110 110)),((110 110, 150 20, 70 20, 110 110),(110 110, 120 40, 100 40, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37244,7 +37244,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110), (110 110, 160 130, 160 90, 110 110)), ((110 110, 60 60, 10 110, 60 160, 110 110), (110 110, 60 90, 60 130, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110),(110 110, 160 130, 160 90, 110 110)),((110 110, 60 60, 10 110, 60 160, 110 110),(110 110, 60 90, 60 130, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37353,7 +37353,7 @@
       "title": "mAh/mAh-3-2: MultiPolygon touching MultiPolygon [dim(1){A.mA.Bdy.NV-EP = B.mA.Bdy.V-SP}, dim(1){A.mA.Bdy.SP-NV = B.mA.Bdy.EP-V}]",
       "id": "07-106",
       "a": {
-        "wkt": "MULTIPOLYGON (((110 110, 70 200, 200 200, 110 110), (110 110, 100 180, 120 180, 110 110)), ((110 110, 200 20, 70 20, 110 110), (110 110, 120 40, 100 40, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 70 200, 200 200, 110 110),(110 110, 100 180, 120 180, 110 110)),((110 110, 200 20, 70 20, 110 110),(110 110, 120 40, 100 40, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37437,7 +37437,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110), (110 110, 160 130, 160 90, 110 110)), ((110 110, 60 60, 10 110, 60 160, 110 110), (110 110, 60 90, 60 130, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110),(110 110, 160 130, 160 90, 110 110)),((110 110, 60 60, 10 110, 60 160, 110 110),(110 110, 60 90, 60 130, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37546,7 +37546,7 @@
       "title": "mAh/mAh-3-3: MultiPolygon touching MultiPolygon [dim(1){A.mA.Bdy.SP-NV = B.mA.Bdy.EP-V}, dim(1){A.mA.Bdy.NV-EP = B.mA.Bdy.V-SP}, dim(1){A.mA.Bdy.NV-EP = B.mA.Bdy.V-SP}, dim(1){A.mA.Bdy.SP-NV = B.mA.Bdy.EP-V}]",
       "id": "07-107",
       "a": {
-        "wkt": "MULTIPOLYGON (((110 110, 20 200, 200 200, 110 110), (110 110, 100 180, 120 180, 110 110)), ((110 110, 200 20, 20 20, 110 110), (110 110, 120 40, 100 40, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 20 200, 200 200, 110 110),(110 110, 100 180, 120 180, 110 110)),((110 110, 200 20, 20 20, 110 110),(110 110, 120 40, 100 40, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37630,7 +37630,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110), (110 110, 160 130, 160 90, 110 110)), ((110 110, 60 60, 10 110, 60 160, 110 110), (110 110, 60 90, 60 130, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110),(110 110, 160 130, 160 90, 110 110)),((110 110, 60 60, 10 110, 60 160, 110 110),(110 110, 60 90, 60 130, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37739,7 +37739,7 @@
       "title": "mAh/mAh-6-1: MultiPolygon touching MultiPolygon [dim(2){A.mA.Int = B.mA.Int}]",
       "id": "07-108",
       "a": {
-        "wkt": "MULTIPOLYGON (((110 110, 70 200, 200 200, 110 110), (110 110, 100 180, 120 180, 110 110)), ((110 110, 200 20, 70 20, 110 110), (110 110, 120 40, 100 40, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 70 200, 200 200, 110 110),(110 110, 100 180, 120 180, 110 110)),((110 110, 200 20, 70 20, 110 110),(110 110, 120 40, 100 40, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37823,7 +37823,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110), (110 110, 160 130, 160 90, 110 110)), ((110 110, 60 60, 10 110, 60 160, 110 110), (110 110, 60 90, 60 130, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 160 160, 210 110, 160 60, 110 110),(110 110, 160 130, 160 90, 110 110)),((110 110, 60 60, 10 110, 60 160, 110 110),(110 110, 60 90, 60 130, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -37932,7 +37932,7 @@
       "title": "mAh/mAh-6-2: MultiPolygon touching MultiPolygon [dim(2){A.mA.Int = B.mA.Int}]",
       "id": "07-109",
       "a": {
-        "wkt": "MULTIPOLYGON (((110 110, 70 200, 200 200, 110 110), (110 110, 100 180, 120 180, 110 110)), ((110 110, 200 20, 70 20, 110 110), (110 110, 120 40, 100 40, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 70 200, 200 200, 110 110),(110 110, 100 180, 120 180, 110 110)),((110 110, 200 20, 70 20, 110 110),(110 110, 120 40, 100 40, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -38016,7 +38016,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((110 110, 70 200, 210 110, 70 20, 110 110), (110 110, 110 140, 150 110, 110 80, 110 110)), ((110 110, 60 60, 10 110, 60 160, 110 110), (110 110, 60 90, 60 130, 110 110)))",
+        "wkt": "MULTIPOLYGON (((110 110, 70 200, 210 110, 70 20, 110 110),(110 110, 110 140, 150 110, 110 80, 110 110)),((110 110, 60 60, 10 110, 60 160, 110 110),(110 110, 60 90, 60 130, 110 110)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -38159,7 +38159,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((80 40, 120 40, 120 80, 80 80, 80 40)), ((120 80, 160 80, 160 120, 120 120, 120 80)), ((80 120, 120 120, 120 160, 80 160, 80 120)), ((40 80, 80 80, 80 120, 40 120, 40 80)))",
+        "wkt": "MULTIPOLYGON (((80 40, 120 40, 120 80, 80 80, 80 40)),((120 80, 160 80, 160 120, 120 120, 120 80)),((80 120, 120 120, 120 160, 80 160, 80 120)),((40 80, 80 80, 80 120, 40 120, 40 80)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -39468,7 +39468,7 @@
       "title": "mPmL - points in I, B and E of lines, lines overlap, points overlap",
       "id": "10-003",
       "a": {
-        "wkt": "MULTILINESTRING ((100 320, 100 220), (100 180, 200 180), (220 180, 220 320), (220 320, 160 320), (100 320, 100 220), (100 180, 200 180), (220 180, 220 320), (220 320, 160 320), (100 220, 100 320))",
+        "wkt": "MULTILINESTRING ((100 320, 100 220),(100 180, 200 180),(220 180, 220 320),(220 320, 160 320),(100 320, 100 220),(100 180, 200 180),(220 180, 220 320),(220 320, 160 320),(100 220, 100 320))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -39861,7 +39861,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((100 320, 100 220), (100 180, 200 180), (220 180, 220 320), (220 320, 160 320))",
+          "wkt": "MULTILINESTRING ((100 320, 100 220),(100 180, 200 180),(220 180, 220 320),(220 320, 160 320))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -39997,7 +39997,7 @@
       "title": "mPmL - points in I, B and E of lines, lines overlap, points overlap, x &lt;0, y &lt; 0",
       "id": "10-004",
       "a": {
-        "wkt": "MULTILINESTRING ((-500 -140, -500 -280, -320 -280, -320 -140, -500 -140, -500 -340), (-500 -140, -320 -140, -500 -140, -320 -140, -500 -140))",
+        "wkt": "MULTILINESTRING ((-500 -140, -500 -280, -320 -280, -320 -140, -500 -140, -500 -340),(-500 -140, -320 -140, -500 -140, -320 -140, -500 -140))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -40319,7 +40319,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((-500 -140, -500 -280), (-500 -280, -320 -280, -320 -140), (-320 -140, -500 -140), (-500 -280, -500 -340))",
+          "wkt": "MULTILINESTRING ((-500 -140, -500 -280),(-500 -280, -320 -280, -320 -140),(-320 -140, -500 -140),(-500 -280, -500 -340))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -40470,7 +40470,7 @@
       "title": "mL - lines intersect at 1 point",
       "id": "10-005",
       "a": {
-        "wkt": "MULTILINESTRING ((180 100, 140 280, 240 140, 220 120, 140 280), (140 280, 100 400, 80 380, 140 280, 40 380, 20 360, 140 280))",
+        "wkt": "MULTILINESTRING ((180 100, 140 280, 240 140, 220 120, 140 280),(140 280, 100 400, 80 380, 140 280, 40 380, 20 360, 140 280))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -40540,7 +40540,7 @@
       "title": "mPmL - points in I, B and E of lines, lines overlap, points overlap",
       "id": "10-006",
       "a": {
-        "wkt": "MULTILINESTRING ((100 320, 100 220), (100 180, 200 180), (220 180, 220 320), (220 320, 160 320), (100 320, 100 220), (100 180, 200 180), (220 180, 220 320), (220 320, 160 320), (100 220, 100 320))",
+        "wkt": "MULTILINESTRING ((100 320, 100 220),(100 180, 200 180),(220 180, 220 320),(220 320, 160 320),(100 320, 100 220),(100 180, 200 180),(220 180, 220 320),(220 320, 160 320),(100 220, 100 320))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -40933,7 +40933,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((100 320, 100 220), (100 180, 200 180), (220 180, 220 320), (220 320, 160 320))",
+          "wkt": "MULTILINESTRING ((100 320, 100 220),(100 180, 200 180),(220 180, 220 320),(220 320, 160 320))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -41212,7 +41212,7 @@
       "title": "mPmA - points on I, B and E of touching triangles",
       "id": "11-002",
       "a": {
-        "wkt": "MULTIPOLYGON (((120 320, 180 200, 240 320, 120 320)), ((180 200, 240 80, 300 200, 180 200)))",
+        "wkt": "MULTIPOLYGON (((120 320, 180 200, 240 320, 120 320)),((180 200, 240 80, 300 200, 180 200)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -41423,7 +41423,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((180 200, 120 320, 240 320, 180 200)), ((180 200, 300 200, 240 80, 180 200)))",
+          "wkt": "MULTIPOLYGON (((180 200, 120 320, 240 320, 180 200)),((180 200, 300 200, 240 80, 180 200)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -41539,7 +41539,7 @@
       "title": "mPmA - points on I, B and E of concentric doughnuts",
       "id": "11-003",
       "a": {
-        "wkt": "MULTIPOLYGON (((120 80, 420 80, 420 340, 120 340, 120 80), (160 300, 160 120, 380 120, 380 300, 160 300)), ((200 260, 200 160, 340 160, 340 260, 200 260), (240 220, 240 200, 300 200, 300 220, 240 220)))",
+        "wkt": "MULTIPOLYGON (((120 80, 420 80, 420 340, 120 340, 120 80),(160 300, 160 120, 380 120, 380 300, 160 300)),((200 260, 200 160, 340 160, 340 260, 200 260),(240 220, 240 200, 300 200, 300 220, 240 220)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -41785,7 +41785,7 @@
           }
         },
         "union": {
-          "wkt": "GEOMETRYCOLLECTION (POINT (200 140), POINT (200 360), POLYGON ((120 80, 120 340, 420 340, 420 80, 120 80), (160 300, 160 120, 380 120, 380 300, 160 300)), POLYGON ((200 260, 340 260, 340 160, 200 160, 200 260), (240 220, 240 200, 300 200, 300 220, 240 220)))",
+          "wkt": "GEOMETRYCOLLECTION (POINT (200 140), POINT (200 360), POLYGON ((120 80, 120 340, 420 340, 420 80, 120 80),(160 300, 160 120, 380 120, 380 300, 160 300)), POLYGON ((200 260, 340 260, 340 160, 200 160, 200 260),(240 220, 240 200, 300 200, 300 220, 240 220)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -41905,7 +41905,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((120 80, 120 340, 420 340, 420 80, 120 80), (160 300, 160 120, 380 120, 380 300, 160 300)), ((200 260, 340 260, 340 160, 200 160, 200 260), (240 220, 240 200, 300 200, 300 220, 240 220)))",
+          "wkt": "MULTIPOLYGON (((120 80, 120 340, 420 340, 420 80, 120 80),(160 300, 160 120, 380 120, 380 300, 160 300)),((200 260, 340 260, 340 160, 200 160, 200 260),(240 220, 240 200, 300 200, 300 220, 240 220)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -42005,7 +42005,7 @@
           }
         },
         "symDifference": {
-          "wkt": "GEOMETRYCOLLECTION (POINT (200 140), POINT (200 360), POLYGON ((120 80, 120 340, 420 340, 420 80, 120 80), (160 300, 160 120, 380 120, 380 300, 160 300)), POLYGON ((200 260, 340 260, 340 160, 200 160, 200 260), (240 220, 240 200, 300 200, 300 220, 240 220)))",
+          "wkt": "GEOMETRYCOLLECTION (POINT (200 140), POINT (200 360), POLYGON ((120 80, 120 340, 420 340, 420 80, 120 80),(160 300, 160 120, 380 120, 380 300, 160 300)), POLYGON ((200 260, 340 260, 340 160, 200 160, 200 260),(240 220, 240 200, 300 200, 300 220, 240 220)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -42202,7 +42202,7 @@
           }
         },
         "union": {
-          "wkt": "MULTILINESTRING ((0 0, 50 50), (50 50, 100 100), (0 100, 50 50), (50 50, 100 0))",
+          "wkt": "MULTILINESTRING ((0 0, 50 50),(50 50, 100 100),(0 100, 50 50),(50 50, 100 0))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -42250,7 +42250,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((0 0, 50 50), (50 50, 100 100))",
+          "wkt": "MULTILINESTRING ((0 0, 50 50),(50 50, 100 100))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -42278,7 +42278,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTILINESTRING ((0 0, 50 50), (50 50, 100 100), (0 100, 50 50), (50 50, 100 0))",
+          "wkt": "MULTILINESTRING ((0 0, 50 50),(50 50, 100 100),(0 100, 50 50),(50 50, 100 0))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -42427,7 +42427,7 @@
           }
         },
         "union": {
-          "wkt": "MULTILINESTRING ((0 0, 100 100), (100 100, 200 0), (100 100, 200 200))",
+          "wkt": "MULTILINESTRING ((0 0, 100 100),(100 100, 200 0),(100 100, 200 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -42481,7 +42481,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTILINESTRING ((100 100, 200 0), (100 100, 200 200))",
+          "wkt": "MULTILINESTRING ((100 100, 200 0),(100 100, 200 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -42602,7 +42602,7 @@
           "geometry": null
         },
         "union": {
-          "wkt": "MULTILINESTRING ((40 360, 40 220, 120 360), (120 340, 60 220, 140 220, 140 360))",
+          "wkt": "MULTILINESTRING ((40 360, 40 220, 120 360),(120 340, 60 220, 140 220, 140 360))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -42662,7 +42662,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTILINESTRING ((40 360, 40 220, 120 360), (120 340, 60 220, 140 220, 140 360))",
+          "wkt": "MULTILINESTRING ((40 360, 40 220, 120 360),(120 340, 60 220, 140 220, 140 360))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -42895,7 +42895,7 @@
           }
         },
         "union": {
-          "wkt": "MULTILINESTRING ((220 240, 200 220), (200 220, 176.66666666666666 236.66666666666666), (176.66666666666666 236.66666666666666, 153.33333333333334 253.33333333333334), (153.33333333333334 253.33333333333334, 60 320, 40 300, 133.33333333333334 233.33333333333334), (133.33333333333334 233.33333333333334, 156.66666666666666 216.66666666666666), (156.66666666666666 216.66666666666666, 180 200), (180 200, 160 180), (160 180, 136.66666666666666 196.66666666666666), (136.66666666666666 196.66666666666666, 113.33333333333333 213.33333333333334), (113.33333333333333 213.33333333333334, 20 280), (200 220, 180 200), (160 180, 140 160, 120 180, 136.66666666666666 196.66666666666666), (136.66666666666666 196.66666666666666, 156.66666666666666 216.66666666666666), (156.66666666666666 216.66666666666666, 176.66666666666666 236.66666666666666), (176.66666666666666 236.66666666666666, 220 280, 200 300, 153.33333333333334 253.33333333333334), (153.33333333333334 253.33333333333334, 133.33333333333334 233.33333333333334), (133.33333333333334 233.33333333333334, 113.33333333333333 213.33333333333334), (113.33333333333333 213.33333333333334, 100 200))",
+          "wkt": "MULTILINESTRING ((220 240, 200 220),(200 220, 176.66666666666666 236.66666666666666),(176.66666666666666 236.66666666666666, 153.33333333333334 253.33333333333334),(153.33333333333334 253.33333333333334, 60 320, 40 300, 133.33333333333334 233.33333333333334),(133.33333333333334 233.33333333333334, 156.66666666666666 216.66666666666666),(156.66666666666666 216.66666666666666, 180 200),(180 200, 160 180),(160 180, 136.66666666666666 196.66666666666666),(136.66666666666666 196.66666666666666, 113.33333333333333 213.33333333333334),(113.33333333333333 213.33333333333334, 20 280),(200 220, 180 200),(160 180, 140 160, 120 180, 136.66666666666666 196.66666666666666),(136.66666666666666 196.66666666666666, 156.66666666666666 216.66666666666666),(156.66666666666666 216.66666666666666, 176.66666666666666 236.66666666666666),(176.66666666666666 236.66666666666666, 220 280, 200 300, 153.33333333333334 253.33333333333334),(153.33333333333334 253.33333333333334, 133.33333333333334 233.33333333333334),(133.33333333333334 233.33333333333334, 113.33333333333333 213.33333333333334),(113.33333333333333 213.33333333333334, 100 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -43107,7 +43107,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((200 220, 176.66666666666666 236.66666666666666), (176.66666666666666 236.66666666666666, 153.33333333333334 253.33333333333334), (153.33333333333334 253.33333333333334, 60 320, 40 300, 133.33333333333334 233.33333333333334), (133.33333333333334 233.33333333333334, 156.66666666666666 216.66666666666666), (156.66666666666666 216.66666666666666, 180 200), (160 180, 136.66666666666666 196.66666666666666), (136.66666666666666 196.66666666666666, 113.33333333333333 213.33333333333334), (113.33333333333333 213.33333333333334, 20 280))",
+          "wkt": "MULTILINESTRING ((200 220, 176.66666666666666 236.66666666666666),(176.66666666666666 236.66666666666666, 153.33333333333334 253.33333333333334),(153.33333333333334 253.33333333333334, 60 320, 40 300, 133.33333333333334 233.33333333333334),(133.33333333333334 233.33333333333334, 156.66666666666666 216.66666666666666),(156.66666666666666 216.66666666666666, 180 200),(160 180, 136.66666666666666 196.66666666666666),(136.66666666666666 196.66666666666666, 113.33333333333333 213.33333333333334),(113.33333333333333 213.33333333333334, 20 280))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -43203,7 +43203,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTILINESTRING ((200 220, 176.66666666666666 236.66666666666666), (176.66666666666666 236.66666666666666, 153.33333333333334 253.33333333333334), (153.33333333333334 253.33333333333334, 60 320, 40 300, 133.33333333333334 233.33333333333334), (133.33333333333334 233.33333333333334, 156.66666666666666 216.66666666666666), (156.66666666666666 216.66666666666666, 180 200), (160 180, 136.66666666666666 196.66666666666666), (136.66666666666666 196.66666666666666, 113.33333333333333 213.33333333333334), (113.33333333333333 213.33333333333334, 20 280), (200 220, 180 200), (160 180, 140 160, 120 180, 136.66666666666666 196.66666666666666), (136.66666666666666 196.66666666666666, 156.66666666666666 216.66666666666666), (156.66666666666666 216.66666666666666, 176.66666666666666 236.66666666666666), (176.66666666666666 236.66666666666666, 220 280, 200 300, 153.33333333333334 253.33333333333334), (153.33333333333334 253.33333333333334, 133.33333333333334 233.33333333333334), (133.33333333333334 233.33333333333334, 113.33333333333333 213.33333333333334), (113.33333333333333 213.33333333333334, 100 200))",
+          "wkt": "MULTILINESTRING ((200 220, 176.66666666666666 236.66666666666666),(176.66666666666666 236.66666666666666, 153.33333333333334 253.33333333333334),(153.33333333333334 253.33333333333334, 60 320, 40 300, 133.33333333333334 233.33333333333334),(133.33333333333334 233.33333333333334, 156.66666666666666 216.66666666666666),(156.66666666666666 216.66666666666666, 180 200),(160 180, 136.66666666666666 196.66666666666666),(136.66666666666666 196.66666666666666, 113.33333333333333 213.33333333333334),(113.33333333333333 213.33333333333334, 20 280),(200 220, 180 200),(160 180, 140 160, 120 180, 136.66666666666666 196.66666666666666),(136.66666666666666 196.66666666666666, 156.66666666666666 216.66666666666666),(156.66666666666666 216.66666666666666, 176.66666666666666 236.66666666666666),(176.66666666666666 236.66666666666666, 220 280, 200 300, 153.33333333333334 253.33333333333334),(153.33333333333334 253.33333333333334, 133.33333333333334 233.33333333333334),(133.33333333333334 233.33333333333334, 113.33333333333333 213.33333333333334),(113.33333333333333 213.33333333333334, 100 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -43492,7 +43492,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTILINESTRING ((80 320, 220 320), (220 320, 220 160), (220 160, 80 300))",
+          "wkt": "MULTILINESTRING ((80 320, 220 320),(220 320, 220 160),(220 160, 80 300))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -43530,7 +43530,7 @@
           }
         },
         "union": {
-          "wkt": "MULTILINESTRING ((80 320, 220 320), (220 320, 220 160), (220 160, 80 300))",
+          "wkt": "MULTILINESTRING ((80 320, 220 320),(220 320, 220 160),(220 160, 80 300))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -43677,7 +43677,7 @@
           }
         },
         "union": {
-          "wkt": "MULTILINESTRING ((60 200, 60 260, 140 200), (60 200, 60 140, 140 200))",
+          "wkt": "MULTILINESTRING ((60 200, 60 260, 140 200),(60 200, 60 140, 140 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -43733,7 +43733,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTILINESTRING ((60 200, 60 260, 140 200), (60 200, 60 140, 140 200))",
+          "wkt": "MULTILINESTRING ((60 200, 60 260, 140 200),(60 200, 60 140, 140 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -43890,7 +43890,7 @@
           }
         },
         "union": {
-          "wkt": "MULTILINESTRING ((180 200, 100 280, 20 200, 100 120), (100 120, 180 200), (100 200, 180 200), (180 200, 220 200, 220 80, 100 80, 100 120), (100 120, 100 200))",
+          "wkt": "MULTILINESTRING ((180 200, 100 280, 20 200, 100 120),(100 120, 180 200),(100 200, 180 200),(180 200, 220 200, 220 80, 100 80, 100 120),(100 120, 100 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -43968,7 +43968,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((180 200, 100 280, 20 200, 100 120), (100 120, 180 200))",
+          "wkt": "MULTILINESTRING ((180 200, 100 280, 20 200, 100 120),(100 120, 180 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -44004,7 +44004,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTILINESTRING ((180 200, 100 280, 20 200, 100 120), (100 120, 180 200), (100 200, 180 200), (180 200, 220 200, 220 80, 100 80, 100 120), (100 120, 100 200))",
+          "wkt": "MULTILINESTRING ((180 200, 100 280, 20 200, 100 120),(100 120, 180 200),(100 200, 180 200),(180 200, 220 200, 220 80, 100 80, 100 120),(100 120, 100 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -44314,7 +44314,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((30 240, 260 30, 30 30, 30 240), (80 140, 80 80, 140 80, 80 140))",
+        "wkt": "POLYGON ((30 240, 260 30, 30 30, 30 240),(80 140, 80 80, 140 80, 80 140))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -44396,7 +44396,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTILINESTRING ((30 100, 80 100), (110 110, 139.77272727272728 139.77272727272728))",
+          "wkt": "MULTILINESTRING ((30 100, 80 100),(110 110, 139.77272727272728 139.77272727272728))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -44424,7 +44424,7 @@
           }
         },
         "union": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (0 100, 30 100), LINESTRING (80 100, 100 100, 110 110), LINESTRING (139.77272727272728 139.77272727272728, 200 200), POLYGON ((30 240, 139.77272727272728 139.77272727272728, 260 30, 30 30, 30 100, 30 240), (80 140, 80 100, 80 80, 140 80, 110 110, 80 140)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (0 100, 30 100), LINESTRING (80 100, 100 100, 110 110), LINESTRING (139.77272727272728 139.77272727272728, 200 200), POLYGON ((30 240, 139.77272727272728 139.77272727272728, 260 30, 30 30, 30 100, 30 240),(80 140, 80 100, 80 80, 140 80, 110 110, 80 140)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -44532,7 +44532,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((0 100, 30 100), (80 100, 100 100, 110 110), (139.77272727272728 139.77272727272728, 200 200))",
+          "wkt": "MULTILINESTRING ((0 100, 30 100),(80 100, 100 100, 110 110),(139.77272727272728 139.77272727272728, 200 200))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -44574,7 +44574,7 @@
           }
         },
         "symDifference": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (0 100, 30 100), LINESTRING (80 100, 100 100, 110 110), LINESTRING (139.77272727272728 139.77272727272728, 200 200), POLYGON ((30 240, 139.77272727272728 139.77272727272728, 260 30, 30 30, 30 100, 30 240), (80 140, 80 100, 80 80, 140 80, 110 110, 80 140)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (0 100, 30 100), LINESTRING (80 100, 100 100, 110 110), LINESTRING (139.77272727272728 139.77272727272728, 200 200), POLYGON ((30 240, 139.77272727272728 139.77272727272728, 260 30, 30 30, 30 100, 30 240),(80 140, 80 100, 80 80, 140 80, 110 110, 80 140)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -44717,7 +44717,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((160 330, 60 260, 20 150, 60 40, 190 20, 270 130, 260 250, 160 330), (140 240, 80 190, 90 100, 160 70, 210 130, 210 210, 140 240))",
+        "wkt": "POLYGON ((160 330, 60 260, 20 150, 60 40, 190 20, 270 130, 260 250, 160 330),(140 240, 80 190, 90 100, 160 70, 210 130, 210 210, 140 240))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -44835,7 +44835,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTILINESTRING ((114.45544554455445 298.1188118811881, 200 250, 172.6027397260274 226.02739726027397), (181.78217821782178 96.13861386138613, 225.25423728813558 68.47457627118644))",
+          "wkt": "MULTILINESTRING ((114.45544554455445 298.1188118811881, 200 250, 172.6027397260274 226.02739726027397),(181.78217821782178 96.13861386138613, 225.25423728813558 68.47457627118644))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -44867,7 +44867,7 @@
           }
         },
         "union": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (40 340, 114.45544554455445 298.1188118811881), LINESTRING (172.6027397260274 226.02739726027397, 120 180, 160 110, 181.78217821782178 96.13861386138613), LINESTRING (225.25423728813558 68.47457627118644, 270 40), POLYGON ((114.45544554455445 298.1188118811881, 160 330, 260 250, 270 130, 225.25423728813558 68.47457627118644, 190 20, 60 40, 20 150, 60 260, 114.45544554455445 298.1188118811881), (140 240, 80 190, 90 100, 160 70, 181.78217821782178 96.13861386138613, 210 130, 210 210, 172.6027397260274 226.02739726027397, 140 240)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (40 340, 114.45544554455445 298.1188118811881), LINESTRING (172.6027397260274 226.02739726027397, 120 180, 160 110, 181.78217821782178 96.13861386138613), LINESTRING (225.25423728813558 68.47457627118644, 270 40), POLYGON ((114.45544554455445 298.1188118811881, 160 330, 260 250, 270 130, 225.25423728813558 68.47457627118644, 190 20, 60 40, 20 150, 60 260, 114.45544554455445 298.1188118811881),(140 240, 80 190, 90 100, 160 70, 181.78217821782178 96.13861386138613, 210 130, 210 210, 172.6027397260274 226.02739726027397, 140 240)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -45007,7 +45007,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((40 340, 114.45544554455445 298.1188118811881), (172.6027397260274 226.02739726027397, 120 180, 160 110, 181.78217821782178 96.13861386138613), (225.25423728813558 68.47457627118644, 270 40))",
+          "wkt": "MULTILINESTRING ((40 340, 114.45544554455445 298.1188118811881),(172.6027397260274 226.02739726027397, 120 180, 160 110, 181.78217821782178 96.13861386138613),(225.25423728813558 68.47457627118644, 270 40))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -45053,7 +45053,7 @@
           }
         },
         "symDifference": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (40 340, 114.45544554455445 298.1188118811881), LINESTRING (172.6027397260274 226.02739726027397, 120 180, 160 110, 181.78217821782178 96.13861386138613), LINESTRING (225.25423728813558 68.47457627118644, 270 40), POLYGON ((114.45544554455445 298.1188118811881, 160 330, 260 250, 270 130, 225.25423728813558 68.47457627118644, 190 20, 60 40, 20 150, 60 260, 114.45544554455445 298.1188118811881), (140 240, 80 190, 90 100, 160 70, 181.78217821782178 96.13861386138613, 210 130, 210 210, 172.6027397260274 226.02739726027397, 140 240)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (40 340, 114.45544554455445 298.1188118811881), LINESTRING (172.6027397260274 226.02739726027397, 120 180, 160 110, 181.78217821782178 96.13861386138613), LINESTRING (225.25423728813558 68.47457627118644, 270 40), POLYGON ((114.45544554455445 298.1188118811881, 160 330, 260 250, 270 130, 225.25423728813558 68.47457627118644, 190 20, 60 40, 20 150, 60 260, 114.45544554455445 298.1188118811881),(140 240, 80 190, 90 100, 160 70, 181.78217821782178 96.13861386138613, 210 130, 210 210, 172.6027397260274 226.02739726027397, 140 240)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -45200,7 +45200,7 @@
       "title": "mLmA - A and B complex, disjoint",
       "id": "13-004",
       "a": {
-        "wkt": "MULTIPOLYGON (((60 320, 60 80, 300 80, 60 320), (80 280, 80 100, 260 100, 80 280)), ((120 160, 140 160, 140 140, 120 160)))",
+        "wkt": "MULTIPOLYGON (((60 320, 60 80, 300 80, 60 320),(80 280, 80 100, 260 100, 80 280)),((120 160, 140 160, 140 140, 120 160)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -45266,7 +45266,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((100 240, 100 180, 160 180, 160 120, 220 120), (40 360, 40 60, 340 60, 40 360, 40 20), (120 120, 120 140, 100 140, 100 120, 140 120))",
+        "wkt": "MULTILINESTRING ((100 240, 100 180, 160 180, 160 120, 220 120),(40 360, 40 60, 340 60, 40 360, 40 20),(120 120, 120 140, 100 140, 100 120, 140 120))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -45382,7 +45382,7 @@
           "geometry": null
         },
         "union": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (100 240, 100 180, 160 180, 160 120, 220 120), LINESTRING (40 360, 40 60), LINESTRING (40 60, 340 60, 40 360), LINESTRING (40 60, 40 20), LINESTRING (120 120, 120 140, 100 140, 100 120, 120 120), LINESTRING (120 120, 140 120), POLYGON ((60 320, 300 80, 60 80, 60 320), (80 280, 80 100, 260 100, 80 280)), POLYGON ((120 160, 140 160, 140 140, 120 160)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (100 240, 100 180, 160 180, 160 120, 220 120), LINESTRING (40 360, 40 60), LINESTRING (40 60, 340 60, 40 360), LINESTRING (40 60, 40 20), LINESTRING (120 120, 120 140, 100 140, 100 120, 120 120), LINESTRING (120 120, 140 120), POLYGON ((60 320, 300 80, 60 80, 60 320),(80 280, 80 100, 260 100, 80 280)), POLYGON ((120 160, 140 160, 140 140, 120 160)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -45560,7 +45560,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((60 320, 300 80, 60 80, 60 320), (80 280, 80 100, 260 100, 80 280)), ((120 160, 140 160, 140 140, 120 160)))",
+          "wkt": "MULTIPOLYGON (((60 320, 300 80, 60 80, 60 320),(80 280, 80 100, 260 100, 80 280)),((120 160, 140 160, 140 140, 120 160)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -45626,7 +45626,7 @@
           }
         },
         "symDifference": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (100 240, 100 180, 160 180, 160 120, 220 120), LINESTRING (40 360, 40 60), LINESTRING (40 60, 340 60, 40 360), LINESTRING (40 60, 40 20), LINESTRING (120 120, 120 140, 100 140, 100 120, 120 120), LINESTRING (120 120, 140 120), POLYGON ((60 320, 300 80, 60 80, 60 320), (80 280, 80 100, 260 100, 80 280)), POLYGON ((120 160, 140 160, 140 140, 120 160)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (100 240, 100 180, 160 180, 160 120, 220 120), LINESTRING (40 360, 40 60), LINESTRING (40 60, 340 60, 40 360), LINESTRING (40 60, 40 20), LINESTRING (120 120, 120 140, 100 140, 100 120, 120 120), LINESTRING (120 120, 140 120), POLYGON ((60 320, 300 80, 60 80, 60 320),(80 280, 80 100, 260 100, 80 280)), POLYGON ((120 160, 140 160, 140 140, 120 160)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -45811,7 +45811,7 @@
       "title": "mLmA - A and B complex, overlapping and touching #1",
       "id": "13-005",
       "a": {
-        "wkt": "MULTIPOLYGON (((60 260, 60 120, 220 120, 220 260, 60 260), (80 240, 80 140, 200 140, 200 240, 80 240)), ((100 220, 100 160, 180 160, 180 220, 100 220), (120 200, 120 180, 160 180, 160 200, 120 200)))",
+        "wkt": "MULTIPOLYGON (((60 260, 60 120, 220 120, 220 260, 60 260),(80 240, 80 140, 200 140, 200 240, 80 240)),((100 220, 100 160, 180 160, 180 220, 100 220),(120 200, 120 180, 160 180, 160 200, 120 200)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -45911,7 +45911,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((40 260, 240 260, 240 240, 40 240, 40 220, 240 220), (120 300, 120 80, 140 80, 140 300, 140 80, 120 80, 120 320))",
+        "wkt": "MULTILINESTRING ((40 260, 240 260, 240 240, 40 240, 40 220, 240 220),(120 300, 120 80, 140 80, 140 300, 140 80, 120 80, 120 320))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -46017,7 +46017,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTILINESTRING ((220 260, 140 260), (140 260, 120 260), (120 260, 60 260), (200 240, 140 240), (140 240, 120 240), (120 240, 80 240), (180 220, 140 220), (140 220, 120 220), (120 220, 100 220), (120 200, 120 180), (220 240, 200 240), (80 240, 60 240), (60 220, 80 220), (200 220, 220 220), (120 260, 120 240), (120 220, 120 200), (120 180, 120 160), (120 140, 120 120), (140 120, 140 140), (140 160, 140 180), (140 200, 140 220), (140 240, 140 260))",
+          "wkt": "MULTILINESTRING ((220 260, 140 260),(140 260, 120 260),(120 260, 60 260),(200 240, 140 240),(140 240, 120 240),(120 240, 80 240),(180 220, 140 220),(140 220, 120 220),(120 220, 100 220),(120 200, 120 180),(220 240, 200 240),(80 240, 60 240),(60 220, 80 220),(200 220, 220 220),(120 260, 120 240),(120 220, 120 200),(120 180, 120 160),(120 140, 120 120),(140 120, 140 140),(140 160, 140 180),(140 200, 140 220),(140 240, 140 260))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -46245,7 +46245,7 @@
           }
         },
         "union": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (40 260, 60 260), LINESTRING (220 260, 240 260, 240 240, 220 240), LINESTRING (60 240, 40 240, 40 220, 60 220), LINESTRING (80 220, 100 220), LINESTRING (180 220, 200 220), LINESTRING (220 220, 240 220), LINESTRING (120 300, 120 260), LINESTRING (120 240, 120 220), LINESTRING (120 160, 120 140), LINESTRING (120 120, 120 80), LINESTRING (120 80, 140 80), LINESTRING (140 80, 140 120), LINESTRING (140 140, 140 160), LINESTRING (140 180, 140 200), LINESTRING (140 220, 140 240), LINESTRING (140 260, 140 300), LINESTRING (120 300, 120 320), POLYGON ((60 240, 60 260, 120 260, 140 260, 220 260, 220 240, 220 220, 220 120, 140 120, 120 120, 60 120, 60 220, 60 240), (80 240, 80 220, 80 140, 120 140, 140 140, 200 140, 200 220, 200 240, 140 240, 120 240, 80 240)), POLYGON ((120 160, 100 160, 100 220, 120 220, 140 220, 180 220, 180 160, 140 160, 120 160), (120 200, 120 180, 140 180, 160 180, 160 200, 140 200, 120 200)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (40 260, 60 260), LINESTRING (220 260, 240 260, 240 240, 220 240), LINESTRING (60 240, 40 240, 40 220, 60 220), LINESTRING (80 220, 100 220), LINESTRING (180 220, 200 220), LINESTRING (220 220, 240 220), LINESTRING (120 300, 120 260), LINESTRING (120 240, 120 220), LINESTRING (120 160, 120 140), LINESTRING (120 120, 120 80), LINESTRING (120 80, 140 80), LINESTRING (140 80, 140 120), LINESTRING (140 140, 140 160), LINESTRING (140 180, 140 200), LINESTRING (140 220, 140 240), LINESTRING (140 260, 140 300), LINESTRING (120 300, 120 320), POLYGON ((60 240, 60 260, 120 260, 140 260, 220 260, 220 240, 220 220, 220 120, 140 120, 120 120, 60 120, 60 220, 60 240),(80 240, 80 220, 80 140, 120 140, 140 140, 200 140, 200 220, 200 240, 140 240, 120 240, 80 240)), POLYGON ((120 160, 100 160, 100 220, 120 220, 140 220, 180 220, 180 160, 140 160, 120 160),(120 200, 120 180, 140 180, 160 180, 160 200, 140 200, 120 200)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -46668,7 +46668,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((60 240, 60 260, 120 260, 140 260, 220 260, 220 240, 220 220, 220 120, 140 120, 120 120, 60 120, 60 220, 60 240), (80 240, 80 220, 80 140, 120 140, 140 140, 200 140, 200 220, 200 240, 140 240, 120 240, 80 240)), ((120 160, 100 160, 100 220, 120 220, 140 220, 180 220, 180 160, 140 160, 120 160), (120 200, 120 180, 140 180, 160 180, 160 200, 140 200, 120 200)))",
+          "wkt": "MULTIPOLYGON (((60 240, 60 260, 120 260, 140 260, 220 260, 220 240, 220 220, 220 120, 140 120, 120 120, 60 120, 60 220, 60 240),(80 240, 80 220, 80 140, 120 140, 140 140, 200 140, 200 220, 200 240, 140 240, 120 240, 80 240)),((120 160, 100 160, 100 220, 120 220, 140 220, 180 220, 180 160, 140 160, 120 160),(120 200, 120 180, 140 180, 160 180, 160 200, 140 200, 120 200)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -46848,7 +46848,7 @@
           }
         },
         "symDifference": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (40 260, 60 260), LINESTRING (220 260, 240 260, 240 240, 220 240), LINESTRING (60 240, 40 240, 40 220, 60 220), LINESTRING (80 220, 100 220), LINESTRING (180 220, 200 220), LINESTRING (220 220, 240 220), LINESTRING (120 300, 120 260), LINESTRING (120 240, 120 220), LINESTRING (120 160, 120 140), LINESTRING (120 120, 120 80), LINESTRING (120 80, 140 80), LINESTRING (140 80, 140 120), LINESTRING (140 140, 140 160), LINESTRING (140 180, 140 200), LINESTRING (140 220, 140 240), LINESTRING (140 260, 140 300), LINESTRING (120 300, 120 320), POLYGON ((60 240, 60 260, 120 260, 140 260, 220 260, 220 240, 220 220, 220 120, 140 120, 120 120, 60 120, 60 220, 60 240), (80 240, 80 220, 80 140, 120 140, 140 140, 200 140, 200 220, 200 240, 140 240, 120 240, 80 240)), POLYGON ((120 160, 100 160, 100 220, 120 220, 140 220, 180 220, 180 160, 140 160, 120 160), (120 200, 120 180, 140 180, 160 180, 160 200, 140 200, 120 200)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (40 260, 60 260), LINESTRING (220 260, 240 260, 240 240, 220 240), LINESTRING (60 240, 40 240, 40 220, 60 220), LINESTRING (80 220, 100 220), LINESTRING (180 220, 200 220), LINESTRING (220 220, 240 220), LINESTRING (120 300, 120 260), LINESTRING (120 240, 120 220), LINESTRING (120 160, 120 140), LINESTRING (120 120, 120 80), LINESTRING (120 80, 140 80), LINESTRING (140 80, 140 120), LINESTRING (140 140, 140 160), LINESTRING (140 180, 140 200), LINESTRING (140 220, 140 240), LINESTRING (140 260, 140 300), LINESTRING (120 300, 120 320), POLYGON ((60 240, 60 260, 120 260, 140 260, 220 260, 220 240, 220 220, 220 120, 140 120, 120 120, 60 120, 60 220, 60 240),(80 240, 80 220, 80 140, 120 140, 140 140, 200 140, 200 220, 200 240, 140 240, 120 240, 80 240)), POLYGON ((120 160, 100 160, 100 220, 120 220, 140 220, 180 220, 180 160, 140 160, 120 160),(120 200, 120 180, 140 180, 160 180, 160 200, 140 200, 120 200)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -47278,7 +47278,7 @@
       "title": "mLmA - A and B complex, overlapping and touching #2",
       "id": "13-006",
       "a": {
-        "wkt": "MULTIPOLYGON (((60 320, 60 120, 280 120, 280 320, 60 320), (120 260, 120 180, 240 180, 240 260, 120 260)), ((280 400, 320 400, 320 360, 280 360, 280 400)), ((300 240, 300 220, 320 220, 320 240, 300 240)))",
+        "wkt": "MULTIPOLYGON (((60 320, 60 120, 280 120, 280 320, 60 320),(120 260, 120 180, 240 180, 240 260, 120 260)),((280 400, 320 400, 320 360, 280 360, 280 400)),((300 240, 300 220, 320 220, 320 240, 300 240)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -47380,7 +47380,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((80 300, 80 160, 260 160, 260 300, 80 300, 80 140), (220 360, 220 240, 300 240, 300 360))",
+        "wkt": "MULTILINESTRING ((80 300, 80 160, 260 160, 260 300, 80 300, 80 140),(220 360, 220 240, 300 240, 300 360))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -47629,7 +47629,7 @@
           }
         },
         "union": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (220 360, 220 320), LINESTRING (220 260, 220 240, 240 240), LINESTRING (280 240, 300 240), LINESTRING (300 240, 300 360), POLYGON ((280 240, 280 120, 60 120, 60 320, 220 320, 280 320, 280 240), (120 260, 120 180, 240 180, 240 240, 240 260, 220 260, 120 260)), POLYGON ((280 400, 320 400, 320 360, 300 360, 280 360, 280 400)), POLYGON ((300 240, 320 240, 320 220, 300 220, 300 240)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (220 360, 220 320), LINESTRING (220 260, 220 240, 240 240), LINESTRING (280 240, 300 240), LINESTRING (300 240, 300 360), POLYGON ((280 240, 280 120, 60 120, 60 320, 220 320, 280 320, 280 240),(120 260, 120 180, 240 180, 240 240, 240 260, 220 260, 120 260)), POLYGON ((280 400, 320 400, 320 360, 300 360, 280 360, 280 400)), POLYGON ((300 240, 320 240, 320 220, 300 220, 300 240)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -47816,7 +47816,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((280 240, 280 120, 60 120, 60 320, 220 320, 280 320, 280 240), (120 260, 120 180, 240 180, 240 240, 240 260, 220 260, 120 260)), ((280 400, 320 400, 320 360, 300 360, 280 360, 280 400)), ((300 240, 320 240, 320 220, 300 220, 300 240)))",
+          "wkt": "MULTIPOLYGON (((280 240, 280 120, 60 120, 60 320, 220 320, 280 320, 280 240),(120 260, 120 180, 240 180, 240 240, 240 260, 220 260, 120 260)),((280 400, 320 400, 320 360, 300 360, 280 360, 280 400)),((300 240, 320 240, 320 220, 300 220, 300 240)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -47938,7 +47938,7 @@
           }
         },
         "symDifference": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (220 360, 220 320), LINESTRING (220 260, 220 240, 240 240), LINESTRING (280 240, 300 240), LINESTRING (300 240, 300 360), POLYGON ((280 240, 280 120, 60 120, 60 320, 220 320, 280 320, 280 240), (120 260, 120 180, 240 180, 240 240, 240 260, 220 260, 120 260)), POLYGON ((280 400, 320 400, 320 360, 300 360, 280 360, 280 400)), POLYGON ((300 240, 320 240, 320 220, 300 220, 300 240)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (220 360, 220 320), LINESTRING (220 260, 220 240, 240 240), LINESTRING (280 240, 300 240), LINESTRING (300 240, 300 360), POLYGON ((280 240, 280 120, 60 120, 60 320, 220 320, 280 320, 280 240),(120 260, 120 180, 240 180, 240 240, 240 260, 220 260, 120 260)), POLYGON ((280 400, 320 400, 320 360, 300 360, 280 360, 280 400)), POLYGON ((300 240, 320 240, 320 220, 300 220, 300 240)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -48132,7 +48132,7 @@
       "title": "mLmA - A and B complex, overlapping and touching #3",
       "id": "13-007",
       "a": {
-        "wkt": "MULTIPOLYGON (((120 180, 60 80, 180 80, 120 180)), ((100 240, 140 240, 120 220, 100 240)))",
+        "wkt": "MULTIPOLYGON (((120 180, 60 80, 180 80, 120 180)),((100 240, 140 240, 120 220, 100 240)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -48180,7 +48180,7 @@
         }
       },
       "b": {
-        "wkt": "MULTILINESTRING ((180 260, 120 180, 60 260, 180 260), (60 300, 60 40), (100 100, 140 100))",
+        "wkt": "MULTILINESTRING ((180 260, 120 180, 60 260, 180 260),(60 300, 60 40),(100 100, 140 100))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -48435,7 +48435,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((60 80, 120 180, 180 80, 60 80)), ((100 240, 140 240, 120 220, 100 240)))",
+          "wkt": "MULTIPOLYGON (((60 80, 120 180, 180 80, 60 80)),((100 240, 140 240, 120 220, 100 240)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -48838,7 +48838,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((100 50, 100 10, 10 10, 10 100, 50 100, 50 50, 100 50)), ((100 50, 100 100, 50 100, 50 200, 200 200, 200 50, 100 50)))",
+          "wkt": "MULTIPOLYGON (((100 50, 100 10, 10 10, 10 100, 50 100, 50 50, 100 50)),((100 50, 100 100, 50 100, 50 200, 200 200, 200 50, 100 50)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -48917,7 +48917,7 @@
       "title": "AA - A with hole intersecting B",
       "id": "14-002",
       "a": {
-        "wkt": "POLYGON ((20 20, 20 160, 160 160, 160 20, 20 20), (140 140, 40 140, 40 40, 140 40, 140 140))",
+        "wkt": "POLYGON ((20 20, 20 160, 160 160, 160 20, 20 20),(140 140, 40 140, 40 40, 140 40, 140 140))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -49079,7 +49079,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((20 20, 20 160, 80 160, 80 240, 220 240, 220 100, 160 100, 160 20, 20 20), (80 140, 40 140, 40 40, 140 40, 140 100, 80 100, 80 140))",
+          "wkt": "POLYGON ((20 20, 20 160, 80 160, 80 240, 220 240, 220 100, 160 100, 160 20, 20 20),(80 140, 40 140, 40 40, 140 40, 140 100, 80 100, 80 140))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -49209,7 +49209,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((20 20, 20 160, 80 160, 80 140, 40 140, 40 40, 140 40, 140 100, 160 100, 160 20, 20 20)), ((160 100, 160 160, 80 160, 80 240, 220 240, 220 100, 160 100)), ((80 140, 140 140, 140 100, 80 100, 80 140)))",
+          "wkt": "MULTIPOLYGON (((20 20, 20 160, 80 160, 80 140, 40 140, 40 40, 140 40, 140 100, 160 100, 160 20, 20 20)),((160 100, 160 160, 80 160, 80 240, 220 240, 220 100, 160 100)),((80 140, 140 140, 140 100, 80 100, 80 140)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -49540,7 +49540,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((20 340, 330 380, 50 40, 28 260, 140 220, 210 320, 140 270, 27 270, 20 340)), ((27 270, 28 260, 0 270, 27 270)))",
+          "wkt": "MULTIPOLYGON (((20 340, 330 380, 50 40, 28 260, 140 220, 210 320, 140 270, 27 270, 20 340)),((27 270, 28 260, 0 270, 27 270)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -49808,7 +49808,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((110 0, 0 0, 0 260, 110 260, 220 260, 220 0, 110 0), (110 260, 40 220, 110 180, 180 220, 110 260), (110 100, 40 60, 110 60, 180 60, 110 100))",
+          "wkt": "POLYGON ((110 0, 0 0, 0 260, 110 260, 220 260, 220 0, 110 0),(110 260, 40 220, 110 180, 180 220, 110 260),(110 100, 40 60, 110 60, 180 60, 110 100))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -49944,7 +49944,7 @@
           }
         },
         "symDifference": {
-          "wkt": "POLYGON ((110 0, 0 0, 0 260, 110 260, 220 260, 220 0, 110 0), (110 260, 40 220, 110 180, 180 220, 110 260), (110 180, 40 140, 110 100, 180 140, 110 180), (110 100, 40 60, 110 60, 180 60, 110 100))",
+          "wkt": "POLYGON ((110 0, 0 0, 0 260, 110 260, 220 260, 220 0, 110 0),(110 260, 40 220, 110 180, 180 220, 110 260),(110 180, 40 140, 110 100, 180 140, 110 180),(110 100, 40 60, 110 60, 180 60, 110 100))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -50238,7 +50238,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((120 0, 0 0, 0 190, 120 190, 230 190, 230 0, 120 0), (120 100, 50 50, 120 50, 190 50, 120 100), (120 100, 190 150, 120 150, 50 150, 120 100))",
+          "wkt": "POLYGON ((120 0, 0 0, 0 190, 120 190, 230 190, 230 0, 120 0),(120 100, 50 50, 120 50, 190 50, 120 100),(120 100, 190 150, 120 150, 50 150, 120 100))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -50370,7 +50370,7 @@
           }
         },
         "symDifference": {
-          "wkt": "POLYGON ((120 0, 0 0, 0 190, 120 190, 230 190, 230 0, 120 0), (120 100, 50 50, 120 50, 190 50, 120 100), (120 100, 190 150, 120 150, 50 150, 120 100))",
+          "wkt": "POLYGON ((120 0, 0 0, 0 190, 120 190, 230 190, 230 0, 120 0),(120 100, 50 50, 120 50, 190 50, 120 100),(120 100, 190 150, 120 150, 50 150, 120 100))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -50489,7 +50489,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((40 20, 0 0, 20 40, 60 60, 40 20)), ((60 90, 60 60, 90 60, 90 90, 60 90)), ((70 120, 90 90, 100 120, 70 120)), ((120 70, 90 90, 120 100, 120 70)))",
+        "wkt": "MULTIPOLYGON (((40 20, 0 0, 20 40, 60 60, 40 20)),((60 90, 60 60, 90 60, 90 90, 60 90)),((70 120, 90 90, 100 120, 70 120)),((120 70, 90 90, 120 100, 120 70)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -50627,7 +50627,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((40 20, 0 0, 20 40, 60 60, 40 20)), ((60 60, 60 90, 90 90, 90 60, 60 60)), ((90 90, 70 120, 100 120, 90 90)), ((120 70, 90 90, 120 100, 120 70)))",
+          "wkt": "MULTIPOLYGON (((40 20, 0 0, 20 40, 60 60, 40 20)),((60 60, 60 90, 90 90, 90 60, 60 60)),((90 90, 70 120, 100 120, 90 90)),((120 70, 90 90, 120 100, 120 70)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -50753,7 +50753,7 @@
           }
         },
         "difference": {
-          "wkt": "POLYGON ((0 0, 0 230, 210 230, 210 0, 0 0), (0 0, 40 20, 60 60, 20 40, 0 0), (60 60, 90 60, 90 90, 60 90, 60 60), (90 90, 120 70, 120 100, 90 90), (90 90, 100 120, 70 120, 90 90))",
+          "wkt": "POLYGON ((0 0, 0 230, 210 230, 210 0, 0 0),(0 0, 40 20, 60 60, 20 40, 0 0),(60 60, 90 60, 90 90, 60 90, 60 60),(90 90, 120 70, 120 100, 90 90),(90 90, 100 120, 70 120, 90 90))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -50863,7 +50863,7 @@
           }
         },
         "symDifference": {
-          "wkt": "POLYGON ((0 0, 0 230, 210 230, 210 0, 0 0), (0 0, 40 20, 60 60, 20 40, 0 0), (60 60, 90 60, 90 90, 60 90, 60 60), (90 90, 120 70, 120 100, 90 90), (90 90, 100 120, 70 120, 90 90))",
+          "wkt": "POLYGON ((0 0, 0 230, 210 230, 210 0, 0 0),(0 0, 40 20, 60 60, 20 40, 0 0),(60 60, 90 60, 90 90, 60 90, 60 60),(90 90, 120 70, 120 100, 90 90),(90 90, 100 120, 70 120, 90 90))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -51010,7 +51010,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((40 20, 0 0, 20 40, 60 60, 40 20)), ((60 100, 60 60, 100 60, 100 100, 60 100)))",
+        "wkt": "MULTIPOLYGON (((40 20, 0 0, 20 40, 60 60, 40 20)),((60 100, 60 60, 100 60, 100 100, 60 100)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -51108,7 +51108,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((40 20, 0 0, 20 40, 60 60, 40 20)), ((60 60, 60 100, 100 100, 100 60, 60 60)))",
+          "wkt": "MULTIPOLYGON (((40 20, 0 0, 20 40, 60 60, 40 20)),((60 60, 60 100, 100 100, 100 60, 60 60)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -51194,7 +51194,7 @@
           }
         },
         "difference": {
-          "wkt": "POLYGON ((0 0, 0 300, 340 300, 340 0, 0 0), (0 0, 40 20, 60 60, 20 40, 0 0), (60 60, 100 60, 100 100, 60 100, 60 60))",
+          "wkt": "POLYGON ((0 0, 0 300, 340 300, 340 0, 0 0),(0 0, 40 20, 60 60, 20 40, 0 0),(60 60, 100 60, 100 100, 60 100, 60 60))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -51268,7 +51268,7 @@
           }
         },
         "symDifference": {
-          "wkt": "POLYGON ((0 0, 0 300, 340 300, 340 0, 0 0), (0 0, 40 20, 60 60, 20 40, 0 0), (60 60, 100 60, 100 100, 60 100, 60 60))",
+          "wkt": "POLYGON ((0 0, 0 300, 340 300, 340 0, 0 0),(0 0, 40 20, 60 60, 20 40, 0 0),(60 60, 100 60, 100 100, 60 100, 60 60))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -51379,7 +51379,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((60 20, 0 20, 60 60, 60 20)), ((60 100, 60 60, 100 60, 100 100, 60 100)))",
+        "wkt": "MULTIPOLYGON (((60 20, 0 20, 60 60, 60 20)),((60 100, 60 60, 100 60, 100 100, 60 100)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -51473,7 +51473,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((60 20, 0 20, 60 60, 60 20)), ((60 60, 60 100, 100 100, 100 60, 60 60)))",
+          "wkt": "MULTIPOLYGON (((60 20, 0 20, 60 60, 60 20)),((60 60, 60 100, 100 100, 100 60, 60 60)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -51559,7 +51559,7 @@
           }
         },
         "difference": {
-          "wkt": "POLYGON ((0 20, 0 120, 120 120, 120 0, 0 0, 0 20), (0 20, 60 20, 60 60, 0 20), (60 60, 100 60, 100 100, 60 100, 60 60))",
+          "wkt": "POLYGON ((0 20, 0 120, 120 120, 120 0, 0 0, 0 20),(0 20, 60 20, 60 60, 0 20),(60 60, 100 60, 100 100, 60 100, 60 60))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -51633,7 +51633,7 @@
           }
         },
         "symDifference": {
-          "wkt": "POLYGON ((0 20, 0 120, 120 120, 120 0, 0 0, 0 20), (0 20, 60 20, 60 60, 0 20), (60 60, 100 60, 100 100, 60 100, 60 60))",
+          "wkt": "POLYGON ((0 20, 0 120, 120 120, 120 0, 0 0, 0 20),(0 20, 60 20, 60 60, 0 20),(60 60, 100 60, 100 100, 60 100, 60 60))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -51714,7 +51714,7 @@
       "title": "AA - simple polygons with holes",
       "id": "14-009",
       "a": {
-        "wkt": "POLYGON ((160 330, 60 260, 20 150, 60 40, 190 20, 270 130, 260 250, 160 330), (140 240, 80 190, 90 100, 160 70, 210 130, 210 210, 140 240))",
+        "wkt": "POLYGON ((160 330, 60 260, 20 150, 60 40, 190 20, 270 130, 260 250, 160 330),(140 240, 80 190, 90 100, 160 70, 210 130, 210 210, 140 240))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -51786,7 +51786,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((300 330, 190 270, 150 170, 150 110, 250 30, 380 50, 380 250, 300 330), (290 240, 240 200, 240 110, 290 80, 330 170, 290 240))",
+        "wkt": "POLYGON ((300 330, 190 270, 150 170, 150 110, 250 30, 380 50, 380 250, 300 330),(290 240, 240 200, 240 110, 290 80, 330 170, 290 240))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -51970,7 +51970,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((216.66666666666666 56.666666666666664, 190 20, 60 40, 20 150, 60 260, 160 330, 216.75675675675674 284.5945945945946, 300 330, 380 250, 380 50, 250 30, 216.66666666666666 56.666666666666664), (262.65625 218.125, 270 130, 250.7594936708861 103.54430379746836, 290 80, 330 170, 290 240, 262.65625 218.125), (140 240, 80 190, 90 100, 160 70, 176 89.2, 150 110, 150 170, 172.4390243902439 226.09756097560975, 140 240))",
+          "wkt": "POLYGON ((216.66666666666666 56.666666666666664, 190 20, 60 40, 20 150, 60 260, 160 330, 216.75675675675674 284.5945945945946, 300 330, 380 250, 380 50, 250 30, 216.66666666666666 56.666666666666664),(262.65625 218.125, 270 130, 250.7594936708861 103.54430379746836, 290 80, 330 170, 290 240, 262.65625 218.125),(140 240, 80 190, 90 100, 160 70, 176 89.2, 150 110, 150 170, 172.4390243902439 226.09756097560975, 140 240))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -52096,7 +52096,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((216.66666666666666 56.666666666666664, 190 20, 60 40, 20 150, 60 260, 160 330, 216.75675675675674 284.5945945945946, 190 270, 172.4390243902439 226.09756097560975, 140 240, 80 190, 90 100, 160 70, 176 89.2, 216.66666666666666 56.666666666666664)), ((262.65625 218.125, 270 130, 250.7594936708861 103.54430379746836, 240 110, 240 200, 262.65625 218.125)))",
+          "wkt": "MULTIPOLYGON (((216.66666666666666 56.666666666666664, 190 20, 60 40, 20 150, 60 260, 160 330, 216.75675675675674 284.5945945945946, 190 270, 172.4390243902439 226.09756097560975, 140 240, 80 190, 90 100, 160 70, 176 89.2, 216.66666666666666 56.666666666666664)),((262.65625 218.125, 270 130, 250.7594936708861 103.54430379746836, 240 110, 240 200, 262.65625 218.125)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -52196,7 +52196,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((216.66666666666666 56.666666666666664, 190 20, 60 40, 20 150, 60 260, 160 330, 216.75675675675674 284.5945945945946, 190 270, 172.4390243902439 226.09756097560975, 140 240, 80 190, 90 100, 160 70, 176 89.2, 216.66666666666666 56.666666666666664)), ((216.66666666666666 56.666666666666664, 250.7594936708861 103.54430379746836, 290 80, 330 170, 290 240, 262.65625 218.125, 260 250, 216.75675675675674 284.5945945945946, 300 330, 380 250, 380 50, 250 30, 216.66666666666666 56.666666666666664)), ((262.65625 218.125, 270 130, 250.7594936708861 103.54430379746836, 240 110, 240 200, 262.65625 218.125)), ((172.4390243902439 226.09756097560975, 210 210, 210 130, 176 89.2, 150 110, 150 170, 172.4390243902439 226.09756097560975)))",
+          "wkt": "MULTIPOLYGON (((216.66666666666666 56.666666666666664, 190 20, 60 40, 20 150, 60 260, 160 330, 216.75675675675674 284.5945945945946, 190 270, 172.4390243902439 226.09756097560975, 140 240, 80 190, 90 100, 160 70, 176 89.2, 216.66666666666666 56.666666666666664)),((216.66666666666666 56.666666666666664, 250.7594936708861 103.54430379746836, 290 80, 330 170, 290 240, 262.65625 218.125, 260 250, 216.75675675675674 284.5945945945946, 300 330, 380 250, 380 50, 250 30, 216.66666666666666 56.666666666666664)),((262.65625 218.125, 270 130, 250.7594936708861 103.54430379746836, 240 110, 240 200, 262.65625 218.125)),((172.4390243902439 226.09756097560975, 210 210, 210 130, 176 89.2, 150 110, 150 170, 172.4390243902439 226.09756097560975)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -52391,7 +52391,7 @@
       "title": "mAmA - complex polygons touching and overlapping",
       "id": "14-010",
       "a": {
-        "wkt": "MULTIPOLYGON (((120 340, 120 200, 140 200, 140 280, 160 280, 160 200, 180 200, 180 280, 200 280, 200 200, 220 200, 220 340, 120 340)), ((360 200, 220 200, 220 180, 300 180, 300 160, 220 160, 220 140, 300 140, 300 120, 220 120, 220 100, 360 100, 360 200)))",
+        "wkt": "MULTIPOLYGON (((120 340, 120 200, 140 200, 140 280, 160 280, 160 200, 180 200, 180 280, 200 280, 200 200, 220 200, 220 340, 120 340)),((360 200, 220 200, 220 180, 300 180, 300 160, 220 160, 220 140, 300 140, 300 120, 220 120, 220 100, 360 100, 360 200)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -52511,7 +52511,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((100 220, 100 200, 300 200, 300 220, 100 220)), ((280 180, 280 160, 300 160, 300 180, 280 180)), ((220 140, 220 120, 240 120, 240 140, 220 140)), ((180 220, 160 240, 200 240, 180 220)))",
+        "wkt": "MULTIPOLYGON (((100 220, 100 200, 300 200, 300 220, 100 220)),((280 180, 280 160, 300 160, 300 180, 280 180)),((220 140, 220 120, 240 120, 240 140, 220 140)),((180 220, 160 240, 200 240, 180 220)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -52858,7 +52858,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((120 220, 120 340, 220 340, 220 220, 300 220, 300 200, 360 200, 360 100, 220 100, 220 120, 220 140, 220 160, 280 160, 280 180, 220 180, 220 200, 200 200, 180 200, 160 200, 140 200, 120 200, 100 200, 100 220, 120 220), (200 240, 200 280, 180 280, 180 240, 200 240), (200 240, 180 220, 200 220, 200 240), (160 240, 160 280, 140 280, 140 220, 160 220, 160 240), (240 120, 300 120, 300 140, 240 140, 240 120))",
+          "wkt": "POLYGON ((120 220, 120 340, 220 340, 220 220, 300 220, 300 200, 360 200, 360 100, 220 100, 220 120, 220 140, 220 160, 280 160, 280 180, 220 180, 220 200, 200 200, 180 200, 160 200, 140 200, 120 200, 100 200, 100 220, 120 220),(200 240, 200 280, 180 280, 180 240, 200 240),(200 240, 180 220, 200 220, 200 240),(160 240, 160 280, 140 280, 140 220, 160 220, 160 240),(240 120, 300 120, 300 140, 240 140, 240 120))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -53052,7 +53052,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((120 220, 120 340, 220 340, 220 220, 200 220, 200 240, 200 280, 180 280, 180 240, 160 240, 160 280, 140 280, 140 220, 120 220)), ((160 220, 160 240, 180 220, 160 220)), ((300 200, 360 200, 360 100, 220 100, 220 120, 240 120, 300 120, 300 140, 240 140, 220 140, 220 160, 280 160, 300 160, 300 180, 280 180, 220 180, 220 200, 300 200)))",
+          "wkt": "MULTIPOLYGON (((120 220, 120 340, 220 340, 220 220, 200 220, 200 240, 200 280, 180 280, 180 240, 160 240, 160 280, 140 280, 140 220, 120 220)),((160 220, 160 240, 180 220, 160 220)),((300 200, 360 200, 360 100, 220 100, 220 120, 240 120, 300 120, 300 140, 240 140, 220 140, 220 160, 280 160, 300 160, 300 180, 280 180, 220 180, 220 200, 300 200)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -53216,7 +53216,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((120 220, 120 340, 220 340, 220 220, 200 220, 200 240, 200 280, 180 280, 180 240, 160 240, 160 280, 140 280, 140 220, 120 220)), ((120 220, 120 200, 100 200, 100 220, 120 220)), ((140 200, 140 220, 160 220, 160 200, 140 200)), ((160 220, 160 240, 180 220, 160 220)), ((180 200, 180 220, 200 220, 200 200, 180 200)), ((180 220, 180 240, 200 240, 180 220)), ((220 200, 220 220, 300 220, 300 200, 360 200, 360 100, 220 100, 220 120, 220 140, 220 160, 280 160, 280 180, 220 180, 220 200), (240 120, 300 120, 300 140, 240 140, 240 120)))",
+          "wkt": "MULTIPOLYGON (((120 220, 120 340, 220 340, 220 220, 200 220, 200 240, 200 280, 180 280, 180 240, 160 240, 160 280, 140 280, 140 220, 120 220)),((120 220, 120 200, 100 200, 100 220, 120 220)),((140 200, 140 220, 160 220, 160 200, 140 200)),((160 220, 160 240, 180 220, 160 220)),((180 200, 180 220, 200 220, 200 200, 180 200)),((180 220, 180 240, 200 240, 180 220)),((220 200, 220 220, 300 220, 300 200, 360 200, 360 100, 220 100, 220 120, 220 140, 220 160, 280 160, 280 180, 220 180, 220 200),(240 120, 300 120, 300 140, 240 140, 240 120)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -53485,7 +53485,7 @@
       "title": "mAmA - complex polygons touching",
       "id": "14-011",
       "a": {
-        "wkt": "MULTIPOLYGON (((100 200, 100 180, 120 180, 120 200, 100 200)), ((60 240, 60 140, 220 140, 220 160, 160 160, 160 180, 200 180, 200 200, 160 200, 160 220, 220 220, 220 240, 60 240), (80 220, 80 160, 140 160, 140 220, 80 220)), ((280 220, 240 180, 260 160, 300 200, 280 220)))",
+        "wkt": "MULTIPOLYGON (((100 200, 100 180, 120 180, 120 200, 100 200)),((60 240, 60 140, 220 140, 220 160, 160 160, 160 180, 200 180, 200 200, 160 200, 160 220, 220 220, 220 240, 60 240),(80 220, 80 160, 140 160, 140 220, 80 220)),((280 220, 240 180, 260 160, 300 200, 280 220)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -53619,7 +53619,7 @@
         }
       },
       "b": {
-        "wkt": "MULTIPOLYGON (((80 220, 80 160, 140 160, 140 220, 80 220), (100 200, 100 180, 120 180, 120 200, 100 200)), ((220 240, 220 220, 160 220, 160 200, 220 200, 220 180, 160 180, 160 160, 220 160, 220 140, 320 140, 320 240, 220 240), (240 220, 240 160, 300 160, 300 220, 240 220)))",
+        "wkt": "MULTIPOLYGON (((80 220, 80 160, 140 160, 140 220, 80 220),(100 200, 100 180, 120 180, 120 200, 100 200)),((220 240, 220 220, 160 220, 160 200, 220 200, 220 180, 160 180, 160 160, 220 160, 220 140, 320 140, 320 240, 220 240),(240 220, 240 160, 300 160, 300 220, 240 220)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -54049,7 +54049,7 @@
           }
         },
         "union": {
-          "wkt": "MULTIPOLYGON (((220 140, 60 140, 60 240, 220 240, 320 240, 320 140, 220 140), (200 200, 200 180, 220 180, 220 200, 200 200), (240 220, 240 180, 240 160, 260 160, 300 160, 300 200, 300 220, 280 220, 240 220)), ((240 180, 280 220, 300 200, 260 160, 240 180)))",
+          "wkt": "MULTIPOLYGON (((220 140, 60 140, 60 240, 220 240, 320 240, 320 140, 220 140),(200 200, 200 180, 220 180, 220 200, 200 200),(240 220, 240 180, 240 160, 260 160, 300 160, 300 200, 300 220, 280 220, 240 220)),((240 180, 280 220, 300 200, 260 160, 240 180)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -54173,7 +54173,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((100 180, 100 200, 120 200, 120 180, 100 180)), ((220 140, 60 140, 60 240, 220 240, 220 220, 160 220, 160 200, 200 200, 200 180, 160 180, 160 160, 220 160, 220 140), (80 220, 80 160, 140 160, 140 220, 80 220)), ((240 180, 280 220, 300 200, 260 160, 240 180)))",
+          "wkt": "MULTIPOLYGON (((100 180, 100 200, 120 200, 120 180, 100 180)),((220 140, 60 140, 60 240, 220 240, 220 220, 160 220, 160 200, 200 200, 200 180, 160 180, 160 160, 220 160, 220 140),(80 220, 80 160, 140 160, 140 220, 80 220)),((240 180, 280 220, 300 200, 260 160, 240 180)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -54307,7 +54307,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((220 140, 60 140, 60 240, 220 240, 320 240, 320 140, 220 140), (200 200, 200 180, 220 180, 220 200, 200 200), (240 220, 240 180, 240 160, 260 160, 300 160, 300 200, 300 220, 280 220, 240 220)), ((240 180, 280 220, 300 200, 260 160, 240 180)))",
+          "wkt": "MULTIPOLYGON (((220 140, 60 140, 60 240, 220 240, 320 240, 320 140, 220 140),(200 200, 200 180, 220 180, 220 200, 200 200),(240 220, 240 180, 240 160, 260 160, 300 160, 300 200, 300 220, 280 220, 240 220)),((240 180, 280 220, 300 200, 260 160, 240 180)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -54468,7 +54468,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((160 160, 100 160, 100 100, 160 100, 160 160), (140 140, 120 140, 120 120, 140 120, 140 140))",
+        "wkt": "POLYGON ((160 160, 100 160, 100 100, 160 100, 160 160),(140 140, 120 140, 120 120, 140 120, 140 140))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -54672,7 +54672,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((60 160, 100 160, 100 100, 140 100, 140 60, 60 60, 60 160)), ((140 140, 140 120, 120 120, 120 140, 140 140)))",
+          "wkt": "MULTIPOLYGON (((60 160, 100 160, 100 100, 140 100, 140 60, 60 60, 60 160)),((140 140, 140 120, 120 120, 120 140, 140 140)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -54736,7 +54736,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((60 160, 100 160, 100 100, 140 100, 140 60, 60 60, 60 160)), ((140 140, 140 160, 160 160, 160 100, 140 100, 140 120, 120 120, 120 140, 140 140)))",
+          "wkt": "MULTIPOLYGON (((60 160, 100 160, 100 100, 140 100, 140 60, 60 60, 60 160)),((140 140, 140 160, 160 160, 160 100, 140 100, 140 120, 120 120, 120 140, 140 140)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -54957,7 +54957,7 @@
           }
         },
         "union": {
-          "wkt": "MULTILINESTRING ((0 10, 400 10), (400 10, 620 10, 400 10.35483870967742), (400 10.35483870967742, 0 11), (400 60, 400 10.35483870967742), (400 10.35483870967742, 400 10))",
+          "wkt": "MULTILINESTRING ((0 10, 400 10),(400 10, 620 10, 400 10.35483870967742),(400 10.35483870967742, 0 11),(400 60, 400 10.35483870967742),(400 10.35483870967742, 400 10))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -55019,7 +55019,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTILINESTRING ((0 10, 400 10), (400 10, 620 10, 400 10.35483870967742), (400 10.35483870967742, 0 11))",
+          "wkt": "MULTILINESTRING ((0 10, 400 10),(400 10, 620 10, 400 10.35483870967742),(400 10.35483870967742, 0 11))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -55061,7 +55061,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTILINESTRING ((0 10, 400 10), (400 10, 620 10, 400 10.35483870967742), (400 10.35483870967742, 0 11), (400 60, 400 10.35483870967742), (400 10.35483870967742, 400 10))",
+          "wkt": "MULTILINESTRING ((0 10, 400 10),(400 10, 620 10, 400 10.35483870967742),(400 10.35483870967742, 0 11),(400 60, 400 10.35483870967742),(400 10.35483870967742, 400 10))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -55593,7 +55593,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((90 10, 10 10, 10 11, 90 10.11111111111111, 90 10)), ((90 10, 100 10, 90 10.11111111111111, 90 200, 200 200, 200 0, 90 0, 90 10)))",
+          "wkt": "MULTIPOLYGON (((90 10, 10 10, 10 11, 90 10.11111111111111, 90 10)),((90 10, 100 10, 90 10.11111111111111, 90 200, 200 200, 200 0, 90 0, 90 10)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -55892,7 +55892,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((100 10, 20 10, 20 10.125, 90 11, 90 20, 100 20, 100 10)), ((20 10.125, 10 10, 20 10, 20 0, 0 0, 0 20, 20 20, 20 10.125)))",
+          "wkt": "MULTIPOLYGON (((100 10, 20 10, 20 10.125, 90 11, 90 20, 100 20, 100 10)),((20 10.125, 10 10, 20 10, 20 0, 0 0, 0 20, 20 20, 20 10.125)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -56193,7 +56193,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((50 20, 50 10, 10 10, 10 30, 40 30, 40 20, 50 20)), ((40 30.23076923076923, 10 31, 10 50, 50 50, 50 40, 40 40, 40 30.23076923076923)))",
+          "wkt": "MULTIPOLYGON (((50 20, 50 10, 10 10, 10 30, 40 30, 40 20, 50 20)),((40 30.23076923076923, 10 31, 10 50, 50 50, 50 40, 40 40, 40 30.23076923076923)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -56265,7 +56265,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((50 20, 50 10, 10 10, 10 30, 40 30, 40 20, 50 20)), ((50 20, 50 40, 60 40, 60 20, 50 20)), ((40 30.23076923076923, 10 31, 10 50, 50 50, 50 40, 40 40, 40 30.23076923076923)), ((40 30.23076923076923, 49 30, 40 30, 40 30.23076923076923)))",
+          "wkt": "MULTIPOLYGON (((50 20, 50 10, 10 10, 10 30, 40 30, 40 20, 50 20)),((50 20, 50 40, 60 40, 60 20, 50 20)),((40 30.23076923076923, 10 31, 10 50, 50 50, 50 40, 40 40, 40 30.23076923076923)),((40 30.23076923076923, 49 30, 40 30, 40 30.23076923076923)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -56388,7 +56388,7 @@
       "title": "AA - hole close to shell",
       "id": "18-004",
       "a": {
-        "wkt": "POLYGON ((10 100, 10 10, 100 10, 100 100, 10 100), (90 90, 11 90, 10 10, 90 11, 90 90))",
+        "wkt": "POLYGON ((10 100, 10 10, 100 10, 100 100, 10 100),(90 90, 11 90, 10 10, 90 11, 90 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -56512,7 +56512,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((10 10, 10 30, 10.25 30, 10 10)), ((30 10, 10 10, 30 10.25, 30 10)))",
+          "wkt": "MULTIPOLYGON (((10 10, 10 30, 10.25 30, 10 10)),((30 10, 10 10, 30 10.25, 30 10)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -56560,7 +56560,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((10 30, 10 100, 100 100, 100 10, 30 10, 30 0, 0 0, 0 30, 10 30), (90 90, 11 90, 10.25 30, 30 30, 30 10.25, 90 11, 90 90))",
+          "wkt": "POLYGON ((10 30, 10 100, 100 100, 100 10, 30 10, 30 0, 0 0, 0 30, 10 30),(90 90, 11 90, 10.25 30, 30 30, 30 10.25, 90 11, 90 90))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -56690,7 +56690,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((10 30, 10 100, 100 100, 100 10, 30 10, 30 10.25, 90 11, 90 90, 11 90, 10.25 30, 10 30)), ((10 30, 10 10, 30 10, 30 0, 0 0, 0 30, 10 30)), ((10 10, 10.25 30, 30 30, 30 10.25, 10 10)))",
+          "wkt": "MULTIPOLYGON (((10 30, 10 100, 100 100, 100 10, 30 10, 30 10.25, 90 11, 90 90, 11 90, 10.25 30, 10 30)),((10 30, 10 10, 30 10, 30 0, 0 0, 0 30, 10 30)),((10 10, 10.25 30, 30 30, 30 10.25, 10 10)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -56809,7 +56809,7 @@
       "title": "mAA - shells close together",
       "id": "18-005",
       "a": {
-        "wkt": "MULTIPOLYGON (((0 0, 100 0, 100 20, 0 20, 0 0)), ((0 40, 0 21, 100 20, 100 40, 0 40)))",
+        "wkt": "MULTIPOLYGON (((0 0, 100 0, 100 20, 0 20, 0 0)),((0 40, 0 21, 100 20, 100 40, 0 40)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -56937,7 +56937,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((100 20, 100 10, 90 10, 90 20, 100 20)), ((100 20, 90 20.1, 90 30, 100 30, 100 20)))",
+          "wkt": "MULTIPOLYGON (((100 20, 100 10, 90 10, 90 20, 100 20)),((100 20, 90 20.1, 90 30, 100 30, 100 20)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -57055,7 +57055,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((100 10, 100 0, 0 0, 0 20, 90 20, 90 10, 100 10)), ((90 20.1, 0 21, 0 40, 100 40, 100 30, 90 30, 90 20.1)))",
+          "wkt": "MULTIPOLYGON (((100 10, 100 0, 0 0, 0 20, 90 20, 90 10, 100 10)),((90 20.1, 0 21, 0 40, 100 40, 100 30, 90 30, 90 20.1)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -57127,7 +57127,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((100 10, 100 0, 0 0, 0 20, 90 20, 90 10, 100 10)), ((100 10, 100 20, 100 30, 110 30, 110 10, 100 10)), ((100 20, 90 20, 90 20.1, 100 20)), ((90 20.1, 0 21, 0 40, 100 40, 100 30, 90 30, 90 20.1)))",
+          "wkt": "MULTIPOLYGON (((100 10, 100 0, 0 0, 0 20, 90 20, 90 10, 100 10)),((100 10, 100 20, 100 30, 110 30, 110 10, 100 10)),((100 20, 90 20, 90 20.1, 100 20)),((90 20.1, 0 21, 0 40, 100 40, 100 30, 90 30, 90 20.1)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -57454,7 +57454,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((100 10, 20 10, 20 10.2, 100 11, 100 10)), ((0 10, 20 10, 20 0, 0 0, 0 10)), ((20 10.2, 0 10, 0 20, 20 20, 20 10.2)))",
+          "wkt": "MULTIPOLYGON (((100 10, 20 10, 20 10.2, 100 11, 100 10)),((0 10, 20 10, 20 0, 0 0, 0 10)),((20 10.2, 0 10, 0 20, 20 20, 20 10.2)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -57769,7 +57769,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((100 10, 20 10, 20 10.222222222222221, 90 11, 90 20, 100 20, 100 10)), ((0 10, 20 10, 20 0, 0 0, 0 10)), ((20 10.222222222222221, 0 10, 0 20, 20 20, 20 10.222222222222221)))",
+          "wkt": "MULTIPOLYGON (((100 10, 20 10, 20 10.222222222222221, 90 11, 90 20, 100 20, 100 10)),((0 10, 20 10, 20 0, 0 0, 0 10)),((20 10.222222222222221, 0 10, 0 20, 20 20, 20 10.222222222222221)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -57864,7 +57864,7 @@
       "title": "AA - hole close to shell, B coincident with A",
       "id": "18-008",
       "a": {
-        "wkt": "POLYGON ((10 100, 10 10, 100 10, 100 100, 10 100), (90 90, 11 90, 10 10, 90 11, 90 90))",
+        "wkt": "POLYGON ((10 100, 10 10, 100 10, 100 100, 10 100),(90 90, 11 90, 10 10, 90 11, 90 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -57988,7 +57988,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((10 10, 10 30, 10.25 30, 10 10)), ((30 10, 10 10, 30 10.25, 30 10)))",
+          "wkt": "MULTIPOLYGON (((10 10, 10 30, 10.25 30, 10 10)),((30 10, 10 10, 30 10.25, 30 10)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -58036,7 +58036,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((10 30, 10 100, 100 100, 100 10, 30 10, 10 0, 10 10, 10 30), (90 90, 11 90, 10.25 30, 30 30, 30 10.25, 90 11, 90 90))",
+          "wkt": "POLYGON ((10 30, 10 100, 100 100, 100 10, 30 10, 10 0, 10 10, 10 30),(90 90, 11 90, 10.25 30, 30 30, 30 10.25, 90 11, 90 90))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -58162,7 +58162,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((10 30, 10 100, 100 100, 100 10, 30 10, 30 10.25, 90 11, 90 90, 11 90, 10.25 30, 10 30)), ((10 10, 30 10, 10 0, 10 10)), ((10 10, 10.25 30, 30 30, 30 10.25, 10 10)))",
+          "wkt": "MULTIPOLYGON (((10 30, 10 100, 100 100, 100 10, 30 10, 30 10.25, 90 11, 90 90, 11 90, 10.25 30, 10 30)),((10 10, 30 10, 10 0, 10 10)),((10 10, 10.25 30, 30 30, 30 10.25, 10 10)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -58269,7 +58269,7 @@
       "title": "AA - A hole close to shell, B coincident with A",
       "id": "18-009",
       "a": {
-        "wkt": "POLYGON ((10 100, 10 10, 100 10, 100 100, 10 100), (90 90, 11 90, 10 10, 90 11, 90 90))",
+        "wkt": "POLYGON ((10 100, 10 10, 100 10, 100 100, 10 100),(90 90, 11 90, 10 10, 90 11, 90 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -58393,7 +58393,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((10 10, 10 30, 10.25 30, 10 10)), ((30 10, 10 10, 30 10.25, 30 10)))",
+          "wkt": "MULTIPOLYGON (((10 10, 10 30, 10.25 30, 10 10)),((30 10, 10 10, 30 10.25, 30 10)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -58441,7 +58441,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((10 30, 10 100, 100 100, 100 10, 30 10, 10 10, 10 30), (90 90, 11 90, 10.25 30, 30 30, 30 10.25, 90 11, 90 90))",
+          "wkt": "POLYGON ((10 30, 10 100, 100 100, 100 10, 30 10, 10 10, 10 30),(90 90, 11 90, 10.25 30, 30 30, 30 10.25, 90 11, 90 90))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -58563,7 +58563,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((10 30, 10 100, 100 100, 100 10, 30 10, 30 10.25, 90 11, 90 90, 11 90, 10.25 30, 10 30)), ((10 10, 10.25 30, 30 30, 30 10.25, 10 10)))",
+          "wkt": "MULTIPOLYGON (((10 30, 10 100, 100 100, 100 10, 30 10, 30 10.25, 90 11, 90 90, 11 90, 10.25 30, 10 30)),((10 10, 10.25 30, 30 30, 30 10.25, 10 10)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -58680,7 +58680,7 @@
         }
       },
       "b": {
-        "wkt": "POLYGON ((10 100, 10 10, 100 10, 100 100, 10 100), (90 90, 11 90, 10 10, 90 11, 90 90))",
+        "wkt": "POLYGON ((10 100, 10 10, 100 10, 100 100, 10 100),(90 90, 11 90, 10 10, 90 11, 90 90))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -58774,7 +58774,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((10 10, 10 30, 10.25 30, 10 10)), ((30 10, 10 10, 30 10.25, 30 10)))",
+          "wkt": "MULTIPOLYGON (((10 10, 10 30, 10.25 30, 10 10)),((30 10, 10 10, 30 10.25, 30 10)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -58822,7 +58822,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((10 10, 10 30, 10 100, 100 100, 100 10, 30 10, 10 10), (10.25 30, 30 30, 30 10.25, 90 11, 90 90, 11 90, 10.25 30))",
+          "wkt": "POLYGON ((10 10, 10 30, 10 100, 100 100, 100 10, 30 10, 10 10),(10.25 30, 30 30, 30 10.25, 90 11, 90 90, 11 90, 10.25 30))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -58920,7 +58920,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((30 10, 30 10.25, 90 11, 90 90, 11 90, 10.25 30, 10 30, 10 100, 100 100, 100 10, 30 10)), ((10.25 30, 30 30, 30 10.25, 10 10, 10.25 30)))",
+          "wkt": "MULTIPOLYGON (((30 10, 30 10.25, 90 11, 90 90, 11 90, 10.25 30, 10 30, 10 100, 100 100, 100 10, 30 10)),((10.25 30, 30 30, 30 10.25, 10 10, 10.25 30)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -59203,7 +59203,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((139.3939393939394 60, 200 0, 0 0, 0 198, 139.3676047864162 60.02607126144796, 139 60, 139.3939393939394 60)), ((139.3939393939394 60, 139.3676047864162 60.02607126144796, 280 70, 280 60, 139.3939393939394 60)))",
+          "wkt": "MULTIPOLYGON (((139.3939393939394 60, 200 0, 0 0, 0 198, 139.3676047864162 60.02607126144796, 139 60, 139.3939393939394 60)),((139.3939393939394 60, 139.3676047864162 60.02607126144796, 280 70, 280 60, 139.3939393939394 60)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -59470,7 +59470,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((139.5017793594306 9.9644128113879, 0 0, 0 20, 140 10, 139.52808988764045 9.96629213483146, 139 10, 139.5017793594306 9.9644128113879)), ((139.5017793594306 9.9644128113879, 139.52808988764045 9.96629213483146, 280 1, 280 0, 139.5017793594306 9.9644128113879)))",
+          "wkt": "MULTIPOLYGON (((139.5017793594306 9.9644128113879, 0 0, 0 20, 140 10, 139.52808988764045 9.96629213483146, 139 10, 139.5017793594306 9.9644128113879)),((139.5017793594306 9.9644128113879, 139.52808988764045 9.96629213483146, 280 1, 280 0, 139.5017793594306 9.9644128113879)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -59541,7 +59541,7 @@
       "title": "AA - sliver triangle with multiple intersecting boxes",
       "id": "18-013",
       "a": {
-        "wkt": "MULTIPOLYGON (((1 4, 1 1, 2 1, 2 4, 1 4)), ((3 4, 3 1, 4 1, 4 4, 3 4)), ((5 4, 5 1, 6 1, 6 4, 5 4)), ((7 4, 7 1, 8 1, 8 4, 7 4)), ((9 4, 9 1, 10 1, 10 4, 9 4)))",
+        "wkt": "MULTIPOLYGON (((1 4, 1 1, 2 1, 2 4, 1 4)),((3 4, 3 1, 4 1, 4 4, 3 4)),((5 4, 5 1, 6 1, 6 4, 5 4)),((7 4, 7 1, 8 1, 8 4, 7 4)),((9 4, 9 1, 10 1, 10 4, 9 4)))",
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -59737,7 +59737,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((1 2, 1 2.090909090909091, 2 2.1818181818181817, 2 2, 1 2)), ((3 2, 3 2.272727272727273, 4 2.3636363636363638, 4 2, 3 2)), ((5 2, 5 2.4545454545454546, 6 2.5454545454545454, 6 2, 5 2)), ((7 2, 7 2.6363636363636362, 8 2.727272727272727, 8 2, 7 2)), ((9 2, 9 2.8181818181818183, 10 2.909090909090909, 10 2, 9 2)))",
+          "wkt": "MULTIPOLYGON (((1 2, 1 2.090909090909091, 2 2.1818181818181817, 2 2, 1 2)),((3 2, 3 2.272727272727273, 4 2.3636363636363638, 4 2, 3 2)),((5 2, 5 2.4545454545454546, 6 2.5454545454545454, 6 2, 5 2)),((7 2, 7 2.6363636363636362, 8 2.727272727272727, 8 2, 7 2)),((9 2, 9 2.8181818181818183, 10 2.909090909090909, 10 2, 9 2)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -60051,7 +60051,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((1 2.090909090909091, 1 4, 2 4, 2 2.1818181818181817, 1 2.090909090909091)), ((2 2, 2 1, 1 1, 1 2, 2 2)), ((3 2.272727272727273, 3 4, 4 4, 4 2.3636363636363638, 3 2.272727272727273)), ((4 2, 4 1, 3 1, 3 2, 4 2)), ((5 2.4545454545454546, 5 4, 6 4, 6 2.5454545454545454, 5 2.4545454545454546)), ((6 2, 6 1, 5 1, 5 2, 6 2)), ((7 2.6363636363636362, 7 4, 8 4, 8 2.727272727272727, 7 2.6363636363636362)), ((8 2, 8 1, 7 1, 7 2, 8 2)), ((9 2.8181818181818183, 9 4, 10 4, 10 2.909090909090909, 9 2.8181818181818183)), ((10 2, 10 1, 9 1, 9 2, 10 2)))",
+          "wkt": "MULTIPOLYGON (((1 2.090909090909091, 1 4, 2 4, 2 2.1818181818181817, 1 2.090909090909091)),((2 2, 2 1, 1 1, 1 2, 2 2)),((3 2.272727272727273, 3 4, 4 4, 4 2.3636363636363638, 3 2.272727272727273)),((4 2, 4 1, 3 1, 3 2, 4 2)),((5 2.4545454545454546, 5 4, 6 4, 6 2.5454545454545454, 5 2.4545454545454546)),((6 2, 6 1, 5 1, 5 2, 6 2)),((7 2.6363636363636362, 7 4, 8 4, 8 2.727272727272727, 7 2.6363636363636362)),((8 2, 8 1, 7 1, 7 2, 8 2)),((9 2.8181818181818183, 9 4, 10 4, 10 2.909090909090909, 9 2.8181818181818183)),((10 2, 10 1, 9 1, 9 2, 10 2)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -60299,7 +60299,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((1 2.090909090909091, 1 4, 2 4, 2 2.1818181818181817, 1 2.090909090909091)), ((1 2.090909090909091, 1 2, 0 2, 1 2.090909090909091)), ((2 2, 2 1, 1 1, 1 2, 2 2)), ((2 2, 2 2.1818181818181817, 3 2.272727272727273, 3 2, 2 2)), ((3 2.272727272727273, 3 4, 4 4, 4 2.3636363636363638, 3 2.272727272727273)), ((4 2, 4 1, 3 1, 3 2, 4 2)), ((4 2, 4 2.3636363636363638, 5 2.4545454545454546, 5 2, 4 2)), ((5 2.4545454545454546, 5 4, 6 4, 6 2.5454545454545454, 5 2.4545454545454546)), ((6 2, 6 1, 5 1, 5 2, 6 2)), ((6 2, 6 2.5454545454545454, 7 2.6363636363636362, 7 2, 6 2)), ((7 2.6363636363636362, 7 4, 8 4, 8 2.727272727272727, 7 2.6363636363636362)), ((8 2, 8 1, 7 1, 7 2, 8 2)), ((8 2, 8 2.727272727272727, 9 2.8181818181818183, 9 2, 8 2)), ((9 2.8181818181818183, 9 4, 10 4, 10 2.909090909090909, 9 2.8181818181818183)), ((10 2, 10 1, 9 1, 9 2, 10 2)), ((10 2, 10 2.909090909090909, 11 3, 11 2, 10 2)))",
+          "wkt": "MULTIPOLYGON (((1 2.090909090909091, 1 4, 2 4, 2 2.1818181818181817, 1 2.090909090909091)),((1 2.090909090909091, 1 2, 0 2, 1 2.090909090909091)),((2 2, 2 1, 1 1, 1 2, 2 2)),((2 2, 2 2.1818181818181817, 3 2.272727272727273, 3 2, 2 2)),((3 2.272727272727273, 3 4, 4 4, 4 2.3636363636363638, 3 2.272727272727273)),((4 2, 4 1, 3 1, 3 2, 4 2)),((4 2, 4 2.3636363636363638, 5 2.4545454545454546, 5 2, 4 2)),((5 2.4545454545454546, 5 4, 6 4, 6 2.5454545454545454, 5 2.4545454545454546)),((6 2, 6 1, 5 1, 5 2, 6 2)),((6 2, 6 2.5454545454545454, 7 2.6363636363636362, 7 2, 6 2)),((7 2.6363636363636362, 7 4, 8 4, 8 2.727272727272727, 7 2.6363636363636362)),((8 2, 8 1, 7 1, 7 2, 8 2)),((8 2, 8 2.727272727272727, 9 2.8181818181818183, 9 2, 8 2)),((9 2.8181818181818183, 9 4, 10 4, 10 2.909090909090909, 9 2.8181818181818183)),((10 2, 10 1, 9 1, 9 2, 10 2)),((10 2, 10 2.909090909090909, 11 3, 11 2, 10 2)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -60694,7 +60694,7 @@
       "title": "AA - Polygon with hole with outward sliver, cut by polygon",
       "id": "18-014",
       "a": {
-        "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 40, 20 40), (180 120, 120 120, 120 160, 60 120, 120 80, 120 119, 180 120))",
+        "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 40, 20 40),(180 120, 120 120, 120 160, 60 120, 120 80, 120 119, 180 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -60826,7 +60826,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((180 160, 180 120, 160 120, 160 160, 180 160)), ((180 120, 180 80, 160 80, 160 119.66666666666667, 180 120)))",
+          "wkt": "MULTIPOLYGON (((180 160, 180 120, 160 120, 160 160, 180 160)),((180 120, 180 80, 160 80, 160 119.66666666666667, 180 120)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -60882,7 +60882,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 160, 200 160, 200 80, 180 80, 180 40, 20 40), (160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 160 120))",
+          "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 160, 200 160, 200 80, 180 80, 180 40, 20 40),(160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 160 120))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -61036,7 +61036,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((20 40, 20 200, 180 200, 180 160, 160 160, 160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 160 80, 180 80, 180 40, 20 40)), ((180 120, 180 160, 200 160, 200 80, 180 80, 180 120)), ((160 120, 180 120, 160 119.66666666666667, 160 120)))",
+          "wkt": "MULTIPOLYGON (((20 40, 20 200, 180 200, 180 160, 160 160, 160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 160 80, 180 80, 180 40, 20 40)),((180 120, 180 160, 200 160, 200 80, 180 80, 180 120)),((160 120, 180 120, 160 119.66666666666667, 160 120)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -61167,7 +61167,7 @@
       "title": "AA - Polygon with hole with outward sliver, cut by line",
       "id": "18-015",
       "a": {
-        "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 40, 20 40), (180 120, 120 120, 120 160, 60 120, 120 80, 120 119, 180 120))",
+        "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 40, 20 40),(180 120, 120 120, 120 160, 60 120, 120 80, 120 119, 180 120))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -61285,7 +61285,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTILINESTRING ((160 140, 160 120), (160 119.66666666666667, 160 100))",
+          "wkt": "MULTILINESTRING ((160 140, 160 120),(160 119.66666666666667, 160 100))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -61313,7 +61313,7 @@
           }
         },
         "union": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (160 120, 160 119.66666666666667), POLYGON ((20 40, 20 200, 180 200, 180 120, 180 40, 20 40), (180 120, 160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 180 120)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (160 120, 160 119.66666666666667), POLYGON ((20 40, 20 200, 180 200, 180 120, 180 40, 20 40),(180 120, 160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 180 120)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -61403,7 +61403,7 @@
           }
         },
         "difference": {
-          "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 120, 180 40, 20 40), (180 120, 160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 180 120))",
+          "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 120, 180 40, 20 40),(180 120, 160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 180 120))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -61475,7 +61475,7 @@
           }
         },
         "symDifference": {
-          "wkt": "GEOMETRYCOLLECTION (LINESTRING (160 120, 160 119.66666666666667), POLYGON ((20 40, 20 200, 180 200, 180 120, 180 40, 20 40), (180 120, 160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 180 120)))",
+          "wkt": "GEOMETRYCOLLECTION (LINESTRING (160 120, 160 119.66666666666667), POLYGON ((20 40, 20 200, 180 200, 180 120, 180 40, 20 40),(180 120, 160 120, 120 120, 120 160, 60 120, 120 80, 120 119, 160 119.66666666666667, 180 120)))",
           "geometry": {
             "type": "GeometryCollection",
             "geometries": [
@@ -61572,7 +61572,7 @@
       "title": "AA - Polygon with inward sliver touching hole, cut by polygon",
       "id": "18-016",
       "a": {
-        "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 120, 140 120, 180 119, 180 40, 20 40), (140 160, 80 120, 140 80, 140 160))",
+        "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 120, 140 120, 180 119, 180 40, 20 40),(140 160, 80 120, 140 80, 140 160))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -61704,7 +61704,7 @@
           }
         },
         "intersection": {
-          "wkt": "MULTIPOLYGON (((180 160, 180 120, 150 120, 150 160, 180 160)), ((150 119.75, 180 119, 180 80, 150 80, 150 119.75)))",
+          "wkt": "MULTIPOLYGON (((180 160, 180 120, 150 120, 150 160, 180 160)),((150 119.75, 180 119, 180 80, 150 80, 150 119.75)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -61760,7 +61760,7 @@
           }
         },
         "union": {
-          "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 160, 200 160, 200 80, 180 80, 180 40, 20 40), (150 120, 140 120, 150 119.75, 150 120), (140 120, 140 160, 80 120, 140 80, 140 120))",
+          "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 160, 200 160, 200 80, 180 80, 180 40, 20 40),(150 120, 140 120, 150 119.75, 150 120),(140 120, 140 160, 80 120, 140 80, 140 120))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -61846,7 +61846,7 @@
           }
         },
         "difference": {
-          "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 160, 150 160, 150 120, 140 120, 150 119.75, 150 80, 180 80, 180 40, 20 40), (140 120, 140 160, 80 120, 140 80, 140 120))",
+          "wkt": "POLYGON ((20 40, 20 200, 180 200, 180 160, 150 160, 150 120, 140 120, 150 119.75, 150 80, 180 80, 180 40, 20 40),(140 120, 140 160, 80 120, 140 80, 140 120))",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -61926,7 +61926,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((20 40, 20 200, 180 200, 180 160, 150 160, 150 120, 140 120, 150 119.75, 150 80, 180 80, 180 40, 20 40), (140 120, 140 160, 80 120, 140 80, 140 120)), ((150 120, 180 120, 180 160, 200 160, 200 80, 180 80, 180 119, 150 119.75, 150 120)))",
+          "wkt": "MULTIPOLYGON (((20 40, 20 200, 180 200, 180 160, 150 160, 150 120, 140 120, 150 119.75, 150 80, 180 80, 180 40, 20 40),(140 120, 140 160, 80 120, 140 80, 140 120)),((150 120, 180 120, 180 160, 200 160, 200 80, 180 80, 180 119, 150 119.75, 150 120)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -62229,7 +62229,7 @@
           }
         },
         "difference": {
-          "wkt": "MULTIPOLYGON (((83 33, 82.64738359310108 39.195974006937995, 82.74795873465995 39.200215127365176, 83 33)), ((82.63884309660992 39.34604273099711, 62 402, 68 402, 82.7417188240485 39.35371692840685, 82.63884309660992 39.34604273099711)))",
+          "wkt": "MULTIPOLYGON (((83 33, 82.64738359310108 39.195974006937995, 82.74795873465995 39.200215127365176, 83 33)),((82.63884309660992 39.34604273099711, 62 402, 68 402, 82.7417188240485 39.35371692840685, 82.63884309660992 39.34604273099711)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -62281,7 +62281,7 @@
           }
         },
         "symDifference": {
-          "wkt": "MULTIPOLYGON (((83 33, 82.64738359310108 39.195974006937995, 82.74795873465995 39.200215127365176, 83 33)), ((82.63884309660992 39.34604273099711, 82.64738359310108 39.195974006937995, 78 39, 82.63884309660992 39.34604273099711)), ((82.63884309660992 39.34604273099711, 62 402, 68 402, 82.7417188240485 39.35371692840685, 82.63884309660992 39.34604273099711)), ((82.74795873465995 39.200215127365176, 82.7417188240485 39.35371692840685, 574 76, 576 60, 82.74795873465995 39.200215127365176)))",
+          "wkt": "MULTIPOLYGON (((83 33, 82.64738359310108 39.195974006937995, 82.74795873465995 39.200215127365176, 83 33)),((82.63884309660992 39.34604273099711, 82.64738359310108 39.195974006937995, 78 39, 82.63884309660992 39.34604273099711)),((82.63884309660992 39.34604273099711, 62 402, 68 402, 82.7417188240485 39.35371692840685, 82.63884309660992 39.34604273099711)),((82.74795873465995 39.200215127365176, 82.7417188240485 39.35371692840685, 574 76, 576 60, 82.74795873465995 39.200215127365176)))",
           "geometry": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -62566,7 +62566,7 @@
       "title": "mL - 2 lines with common endpoint",
       "id": "19-006",
       "a": {
-        "wkt": "MULTILINESTRING ((10 10, 20 20), (20 20, 30 30))",
+        "wkt": "MULTILINESTRING ((10 10, 20 20),(20 20, 30 30))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -62618,7 +62618,7 @@
       "title": "mL - 3 lines with common endpoint",
       "id": "19-007",
       "a": {
-        "wkt": "MULTILINESTRING ((10 10, 20 20), (20 20, 30 20), (20 20, 30 30))",
+        "wkt": "MULTILINESTRING ((10 10, 20 20),(20 20, 30 20),(20 20, 30 30))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -62688,7 +62688,7 @@
       "title": "mL - 4 lines with common endpoint",
       "id": "19-008",
       "a": {
-        "wkt": "MULTILINESTRING ((10 10, 20 20), (20 20, 30 20), (20 20, 30 30), (20 20, 30 40))",
+        "wkt": "MULTILINESTRING ((10 10, 20 20),(20 20, 30 20),(20 20, 30 30),(20 20, 30 40))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -62768,7 +62768,7 @@
       "title": "mL - 2 lines, one closed, with common endpoint",
       "id": "19-009",
       "a": {
-        "wkt": "MULTILINESTRING ((10 10, 20 20), (20 20, 20 30, 30 30, 30 20, 20 20))",
+        "wkt": "MULTILINESTRING ((10 10, 20 20),(20 20, 20 30, 30 30, 30 20, 20 20))",
         "geometry": {
           "type": "MultiLineString",
           "coordinates": [
@@ -62958,7 +62958,7 @@
       "title": "A - polygon with 1 hole",
       "id": "19-012",
       "a": {
-        "wkt": "POLYGON ((40 60, 420 60, 420 320, 40 320, 40 60), (200 140, 160 220, 260 200, 200 140))",
+        "wkt": "POLYGON ((40 60, 420 60, 420 320, 40 320, 40 60),(200 140, 160 220, 260 200, 200 140))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -63007,7 +63007,7 @@
       },
       "functions": {
         "getBoundary": {
-          "wkt": "MULTILINESTRING ((40 60, 420 60, 420 320, 40 320, 40 60), (200 140, 160 220, 260 200, 200 140))",
+          "wkt": "MULTILINESTRING ((40 60, 420 60, 420 320, 40 320, 40 60),(200 140, 160 220, 260 200, 200 140))",
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
@@ -63122,7 +63122,7 @@
       "title": "Convex hull",
       "id": "20-002",
       "a": {
-        "wkt": "POLYGON ((40 60, 420 60, 420 320, 40 320, 40 60), (200 140, 160 220, 260 200, 200 140))",
+        "wkt": "POLYGON ((40 60, 420 60, 420 320, 40 320, 40 60),(200 140, 160 220, 260 200, 200 140))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -63506,7 +63506,7 @@
       "title": "Starlike Polygon",
       "id": "20-008",
       "a": {
-        "wkt": "POLYGON ((200 360, 230 210, 100 190, 270 150, 360 10, 320 200, 490 230, 280 240, 200 360), (220 300, 250 200, 150 190, 290 150, 330 70, 310 210, 390 230, 280 230, 220 300))",
+        "wkt": "POLYGON ((200 360, 230 210, 100 190, 270 150, 360 10, 320 200, 490 230, 280 240, 200 360),(220 300, 250 200, 150 190, 290 150, 330 70, 310 210, 390 230, 280 230, 220 300))",
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -63976,7 +63976,7 @@
       "title": "GeometryCollection",
       "id": "20-011",
       "a": {
-        "wkt": "GEOMETRYCOLLECTION (POINT (110 300), POINT (100 110), POINT (130 210), POINT (150 210), POINT (150 180), POINT (130 170), POINT (140 190), POINT (130 200), LINESTRING (240 50, 210 120, 270 80, 250 140, 330 70, 300 160, 340 130, 340 130), POLYGON ((210 340, 220 260, 150 270, 230 220, 230 140, 270 210, 360 240, 260 250, 260 280, 240 270, 210 340), (230 270, 230 250, 200 250, 240 220, 240 190, 260 220, 290 230, 250 230, 230 270)))",
+        "wkt": "GEOMETRYCOLLECTION (POINT (110 300), POINT (100 110), POINT (130 210), POINT (150 210), POINT (150 180), POINT (130 170), POINT (140 190), POINT (130 200), LINESTRING (240 50, 210 120, 270 80, 250 140, 330 70, 300 160, 340 130, 340 130), POLYGON ((210 340, 220 260, 150 270, 230 220, 230 140, 270 210, 360 240, 260 250, 260 280, 240 270, 210 340),(230 270, 230 250, 200 250, 240 220, 240 190, 260 220, 290 230, 250 230, 230 270)))",
         "geometry": {
           "type": "GeometryCollection",
           "geometries": [
